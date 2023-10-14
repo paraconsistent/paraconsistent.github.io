@@ -1,11 +1,15 @@
 ---
 title: The Countability Axioms
-category: topology
+category: Topology
 layout: post
 math: true
 toc: true
+tags:
+  - General-Topology
+  - countability
+  - basis
 ---
-# Basic notions 
+## Basic notions 
 
 **Definition** (basis) Let ${ \mathcal{B} }$ be a subsets of ${ X }$ s.t.
 - ${ \bigcup \mathscr{B} = X }$
@@ -15,10 +19,10 @@ toc: true
 
 $$ (\,\forall N \in \mathcal{N}(x),\,\exists B \in \mathcal{B}_{x}\,) \ B \subset N $$
 
-# First countable space
+## First countable space
 **Definition** ${ \forall x \in X }$, ${ X }$ has a countable baisis at ${ x }$.
 
-# Second countable space
+## Second countable space
 **Definition** ${ X }$ has a countable basis.
 
 
