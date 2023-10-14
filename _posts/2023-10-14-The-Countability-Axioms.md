@@ -1,5 +1,5 @@
 ---
-title: Countable Axioms
+title: The-Countability-Axioms
 category: topology
 layout: post
 math: true
@@ -13,7 +13,7 @@ toc: true
 
 **Definition** (basis at ${ x }$) Let ${ \mathcal{B}_{x} }$ be a subsets of ${ X }$ s.t.
 
-$$ (\,\forall N \in \mathcal{N}(x),\,\exists B \in \mathcal{B}\,) \quad B \subset N $$
+$$ (\,\forall N \in \mathcal{N}(x),\,\exists B \in \mathcal{B}_{x}\,) \quad B \subset N $$
 
 # First countable space
 **Definition** ${ \forall x \in X }$, ${ X }$ has a countable baisis at ${ x }$.
