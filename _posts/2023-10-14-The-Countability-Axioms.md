@@ -20,7 +20,7 @@ tags:
 $$ (\,\forall N \in \mathcal{N}(x),\,\exists B \in \mathcal{B}_{x}\,) \ B \subset N $$
 
 ## First countable space
-**Definition** ${ \forall x \in X }$, ${ X }$ has a countable baisis at ${ x }$.
+**Definition** ${ \forall x \in X }$, ${ X }$ has a countable basis at ${ x }$.
 
 ## Second countable space
 **Definition** ${ X }$ has a countable basis.
