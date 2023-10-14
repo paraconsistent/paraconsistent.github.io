@@ -6,6 +6,7 @@ tags:
   - precision
   - accuracy
   - significant-figure
+  - rounding
 math: true
 toc: true
 ---
@@ -44,4 +45,4 @@ $$ \mathrm{roundToMultiple}(x,m) = \mathrm{round}\left( \frac{x}{m} \right) \tim
 ---
 # References
 
-[1]: [ISO 5725-1:2023(en), Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions](https://www.iso.org/obp/ui/#iso:std:iso:5725:-1:ed-2:v1:en)
+1. [ISO 5725-1:2023(en), Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions](https://www.iso.org/obp/ui/#iso:std:iso:5725:-1:ed-2:v1:en)
