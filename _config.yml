@@ -26,6 +26,13 @@ exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
-
+  
+# Jekyll SEO Tag (Optional)
+# =========================
+logo: logo.png
+social:
+  name: Chang-jae Lee
+  links:
+    - https://github.com/paraconsistent
 # google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: kr
+lang: en
