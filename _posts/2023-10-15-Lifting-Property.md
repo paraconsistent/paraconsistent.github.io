@@ -17,12 +17,16 @@ A pair of morphisms ${ (i,p) }$ has the **lifting property** iff there is a diag
 Then ${ i }$ has the left lifting property w.r.t. ${ p }$ and ${ p }$ has the right lifting property w.r.t. ${ i }$, denote those ${ i \perp p }$ or ${ i \downarrow p }$.
 
 ### Orthogonal with respect to a class
+
 For a class ${ C }$ of morphisms in a category, the left orthogonal w.r.t. C is defined by
+
 $$ C^{\perp l} := \{ \, i \, \mid \, \forall p \in C, i\perp p \, \} $$
+
 and the right orthogonal w.r.t. C is defined by
+
 $$ C^{\perp r} := \{ \, i \, \mid \, \forall p \in C, i\perp p \, \} $$
 
-### homotopy lifting property
+## homotopy lifting property
 
 For any homotopy ${ f_{\bullet}:Y \times I \to B }$ and for any map ${ \tilde{f}_{0} : Y \to E}$ lifting ${ f_{0} = f_{\bullet}\rvert_{Y \times\left\{ 0 \right\}} }$, there exists a homotopy ${ \tilde{f}_{\bullet} : Y \times I \to E }$ lifting ${ f_{\bullet} }$
 
