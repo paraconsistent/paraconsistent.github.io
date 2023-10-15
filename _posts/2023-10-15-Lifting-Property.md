@@ -18,7 +18,7 @@ Then \\( i \\) has the left lifting property w.r.t. \\( p \\)and \\( p \\) has t
 
 ### Orthogonal with respect to a class
 
-For a class ${ C }$ of morphisms in a category, the left orthogonal w.r.t. C is defined by
+For a class \\( C \\) of morphisms in a category, the left orthogonal w.r.t. \\( C \\) is defined by
 
 \\[ C^{\perp l} := \{ \, i \, \mid \, \forall p \in C, i\perp p \, \} \\]
 
