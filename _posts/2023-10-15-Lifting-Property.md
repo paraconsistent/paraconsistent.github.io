@@ -28,7 +28,7 @@ and the right orthogonal w.r.t. \( C \)$ is defined by
 
 ## homotopy lifting property
 
-For any homotopy \\( f_{\bullet}:Y \times I \to B \\) and for any map \\( \widetilde{f}_{0} : Y \to E\\) lifting \\( f_{0} = f_{\bullet} \rvert_{Y \times\left\{ 0 \right\}} \\), there exists a homotopy \\( \widetilde{f}_{\bullet} : Y \times I \to E \\) lifting \\( f_{\bullet} \\)
+For any homotopy \\( f_ \\)
 
 <p align="middle"><iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJZIl0sWzAsMSwiWSBcXHRpbWVzIEkiXSxbMSwxLCJCIl0sWzEsMCwiRSJdLFswLDEsIlxcaW90YV8wIiwyLHsic3R5bGUiOnsidGFpbCI6eyJuYW1lIjoiaG9vayIsInNpZGUiOiJ0b3AifX19XSxbMSwyLCJmX3tcXGJ1bGxldH0iLDJdLFszLDIsIlxccGkiLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJlcGkifX19XSxbMCwzLCJcXH5mX3swfSJdLFsxLDMsIlxcfmZfe1xcYnVsbGV0fSIsMSx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6ImRhc2hlZCJ9fX1dXQ==&embed" width="320" height="304" style="border-radius: 8px; border: none;"></iframe></p>
 
