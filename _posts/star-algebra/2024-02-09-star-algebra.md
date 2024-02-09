@@ -1,8 +1,7 @@
 ---
 layout: post
-title: \(\ast\)-algebra
+title: "*-algebra"
 tags:
-  - functional-analysis
   - quant-ph
 math: "true"
 categories: "*-algebra"
