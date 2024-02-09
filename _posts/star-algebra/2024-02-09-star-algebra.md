@@ -27,4 +27,4 @@ $$ (\forall a \in A) \quad f(a^{\ast}) = f(a)^{\ast} $$
 
 # References
 
-1. *\*-algebra*. In *Wikipedia*. Retrieved Febuary 9, 2024, from https://en.wikipedia.org/wiki/*-algebra
+1. *\*-algebra*. In *Wikipedia*. Retrieved Febuary 9, 2024, from [https://en.wikipedia.org/wiki/*-algebra](https://en.wikipedia.org/wiki/*-algebra)
