@@ -22,4 +22,4 @@ In a ring theory, an antihomomorphism is a map
 
 # References
 
-1. Involution. _Encyclopedia of Mathematics._ URL: http://encyclopediaofmath.org/index.php?title=Involution&oldid=47428
+1. Involution. _Encyclopedia of Mathematics._ URL: [http://encyclopediaofmath.org/index.php?title=Involution&oldid=47428](http://encyclopediaofmath.org/index.php?title=Involution&oldid=47428)
