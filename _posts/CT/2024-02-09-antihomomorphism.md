@@ -2,7 +2,7 @@
 layout: post
 title: antihomomorphism
 math: "true"
-categories: category theory
+categories: category-theory
 tags:
   - quant-ph
   - star-algebra
