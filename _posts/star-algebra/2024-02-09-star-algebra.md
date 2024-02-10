@@ -5,7 +5,7 @@ tags:
   - quant-ph
   - star-algebra
 math: "true"
-categories: functional-analysis
+categories: Functional-Analysis
 toc: "true"
 ---
 # ${ \ast }$-ring
