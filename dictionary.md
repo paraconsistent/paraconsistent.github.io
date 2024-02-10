@@ -7,149 +7,110 @@ permalink: /dict/
 
 ## A
 
-**AC**
-axiom of choice
+**AC**: axiom of choice
 
-**a.e.**
-almost everywhere
+**a.e.**: almost everywhere
 
-**arg**
-argument of
+**arg**: argument of
 
-**a.s.**
-almost surely
+**a.s.**: almost surely 
 
 ## B
 
-**bd**
-boundary
+**bd**: boundary
 
-**BWOC**
-by way of contradiction
+**BWOC**: by way of contradiction
 
 ## C
 
-**cntd**
-connected
+**cntd**: connected
 
-**const.**
-constant
+**const.**: constant
 
-**codom, cod**
-codomain
+**codom, cod**: codomain
+: **coker, cok**: cokernel
 
-**coker, cok**
-cokernel
+**Cor**: corollary
 
-**Cor**
-corollary
-
-**cnvx**
-convex
+**cnvx**: convex
 
 ## D
 
-**def**
-define, definition
+**def**: define, definition
 
 ## E
 
-**eqn**
-equation
+**eqn**: equation
 
-**ETS**
-enough to show
+**ETS**: enough to show
 
 ## F
 
-**func, fcn**
-function
+**func, fcn**: function
 
 
 ## I
 
-**iff**
-if and only if
+**iff**: if and only if
 
-**IH**
-induction hypothesis
+**IH**: induction hypothesis
 
-**int**
-interior
+**int**: interior
 
-**isom**
-isomorphism
+**isom**: isomorphism
 
 ## L
 
-**LHS**
-left-hand side
+**LHS**: left-hand side
 
 ## N
 
-**NTS**
-need to show
+**NTS**: need to show
 
 ## P
 
-**pf**
-proof
+**pf**: proof
 
-**pr**
-probability
+**pr**: probability
 
 ## Q
 
-**Q.E.D.**
-(Quod erat demonstrandum)
-which was to be demonstrated
+**Q.E.D.**: (Quod erat demonstrandum) which was to be demonstrated
+
 
 ## R
 
-**RHS**
-right-hand side
+**RHS**: right-hand side
 
-**resp.**
-respectively
+**resp.**: respectively
 
-**RTP**
-required to prove
+**RTP**: required to prove
 
-**RTS**
-remain to show
+**RTS**: remain to show
 
 ## S
 
-**s.t.**
-such that, so that, subject to
+**s.t.**: such that, so that, subject to
 
-**sol**
-solution
+**sol**: solution
 
 ## T
 
-**TFAE**
-the following are equivalent
+**TFAE**: the following are equivalent
 
-**thm**
-theorem
+**thm**: theorem
 
 ## W
 
-**WLOG**
-without loss of generality
+**WLOG**: without loss of generality
 
-**WMA**
-we may assume
+**WMA**: we may assume
 
-**WTP**
-want to prove
+**WTP**: want to prove
 
-**WTS**
-want to show, wish to show
+**WTS**: want to show, wish to show
 
-**wrt**
-with respect to, with regard to
+**wrt**: with respect to, with regard to
 
 # Terminology
 
