@@ -2,10 +2,11 @@
 layout: page
 title: Dictionary
 permalink: /dict/
+toc: "true"
 ---
-# Acronyms and Abbreviations
+## Acronyms and Abbreviations
 
-## A
+### A
 
 AC: axiom of choice
 
@@ -17,13 +18,13 @@ a.s.: almost surely
 
 aut: automorphism
 
-## B
+### B
 
 bd: boundary
 
 BWOC: by way of contradiction
 
-## C
+### C
 
 cl: closure
 
@@ -45,29 +46,29 @@ Cor: corollary
 
 cpt: compact
 
-## D
+### D
 
 def: define, definition
 
 dim: dimension
 
-## E
+### E
 
 eqn: equation
 
 ETS: enough to show
 
-## F
+### F
 
 FTC: fundamental theorem of calculus
 
 func, fcn: function
 
-## H
+### H
 
 hom: homomorphism
 
-## I
+### I
 
 id: identity
 
@@ -83,31 +84,31 @@ inv: inverse
 
 isom: isomorphism
 
-## L
+### L
 
 LCH: locally compact Hausdorff
 
 LHS: left-hand side
 
-## M
+### M
 
 mor: morphism
 
-## N
+### N
 
 NTS: need to show
 
-## P
+### P
 
 pf: proof
 
 pr.: probability
 
-## Q
+### Q
 
 Q.E.D.: (Quod erat demonstrandum) which was to be demonstrated
 
-## R
+### R
 
 resp.: respectively
 
@@ -117,19 +118,19 @@ RTP: required to prove
 
 RTS: remain to show
 
-## S
+### S
 
 s.t.: such that, so that, subject to
 
 sol: solution
 
-## T
+### T
 
 TFAE: the following are equivalent
 
 thm: theorem
 
-## W
+### W
 
 WLOG: without loss of generality
 
@@ -141,7 +142,7 @@ WTP: want to prove
 
 WTS: want to show, wish to show
 
-# Futher reading
+## Futher reading
 
 1. [Glossary of mathematical jargon - Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_mathematical_jargon)
 1. [List of mathematical abbreviations - Wikipedia](https://en.wikipedia.org/wiki/List_of_mathematical_abbreviations)
