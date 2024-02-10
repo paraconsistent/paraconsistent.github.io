@@ -10,7 +10,7 @@ toc: "true"
 ---
 # ${ \ast }$-ring
 
-**Definition** **${ \ast }$-ring** is a ring ${ A }$ with a map ${ ^{\ast}: A \to A }$ that is an [involutive antiautomorphism](https://paraconsistent.github.io/category/theory/2024/02/09/antihomomorphism.html).
+**Definition** **${ \ast }$-ring** is a ring ${ A }$ with a map ${ ^{\ast}: A \to A }$ that is an [involutive antiautomorphism](https://paraconsistent.github.io/category-theory/2024/02/09/antihomomorphism.html).
 
 # ${ \ast }$-algebra
 
