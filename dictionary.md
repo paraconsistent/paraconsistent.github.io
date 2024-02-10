@@ -7,115 +7,139 @@ permalink: /dict/
 
 ## A
 
-**AC**: axiom of choice
+AC: axiom of choice
 
-**a.e.**: almost everywhere
+a.e.: almost everywhere
 
-**arg**: argument of
+arg: argument of
 
-**a.s.**: almost surely 
+a.s.: almost surely
+
+aut: automorphism
 
 ## B
 
-**bd**: boundary
+bd: boundary
 
-**BWOC**: by way of contradiction
+BWOC: by way of contradiction
 
 ## C
 
-**cntd**: connected
+cl: closure
 
-**const.**: constant
+clsd: closed
 
-**codom, cod**: codomain
-: **coker, cok**: cokernel
+cncv: concave
 
-**Cor**: corollary
+cntd: connected
 
-**cnvx**: convex
+cnvx: convex
+
+codom, cod: codomain
+
+coker, cok: cokernel
+
+const: constant
+
+Cor: corollary
+
+cpt: compact
 
 ## D
 
-**def**: define, definition
+def: define, definition
+
+dim: dimension
 
 ## E
 
-**eqn**: equation
+eqn: equation
 
-**ETS**: enough to show
+ETS: enough to show
 
 ## F
 
-**func, fcn**: function
+FTC: fundamental theorem of calculus
 
+func, fcn: function
+
+## H
+
+hom: homomorphism
 
 ## I
 
-**iff**: if and only if
+id: identity
 
-**IH**: induction hypothesis
+iff: if and only if
 
-**int**: interior
+IH: induction hypothesis
 
-**isom**: isomorphism
+inc: inclusion map
+
+int: interior
+
+inv: inverse
+
+isom: isomorphism
 
 ## L
 
-**LHS**: left-hand side
+LCH: locally compact Hausdorff
+
+LHS: left-hand side
+
+## M
+
+mor: morphism
 
 ## N
 
-**NTS**: need to show
+NTS: need to show
 
 ## P
 
-**pf**: proof
+pf: proof
 
-**pr**: probability
+pr.: probability
 
 ## Q
 
-**Q.E.D.**: (Quod erat demonstrandum) which was to be demonstrated
-
+Q.E.D.: (Quod erat demonstrandum) which was to be demonstrated
 
 ## R
 
-**RHS**: right-hand side
+resp.: respectively
 
-**resp.**: respectively
+RHS: right-hand side
 
-**RTP**: required to prove
+RTP: required to prove
 
-**RTS**: remain to show
+RTS: remain to show
 
 ## S
 
-**s.t.**: such that, so that, subject to
+s.t.: such that, so that, subject to
 
-**sol**: solution
+sol: solution
 
 ## T
 
-**TFAE**: the following are equivalent
+TFAE: the following are equivalent
 
-**thm**: theorem
+thm: theorem
 
 ## W
 
-**WLOG**: without loss of generality
+WLOG: without loss of generality
 
-**WMA**: we may assume
+WMA: we may assume
 
-**WTP**: want to prove
+w.r.t.: with respect to, with regard to
 
-**WTS**: want to show, wish to show
+WTP: want to prove
 
-**wrt**: with respect to, with regard to
-
-# Terminology
-
-
-
+WTS: want to show, wish to show
 
 # Futher reading
 

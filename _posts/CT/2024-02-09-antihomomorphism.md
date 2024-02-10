@@ -4,7 +4,6 @@ title: antihomomorphism
 math: "true"
 categories: category-theory
 tags:
-  - quant-ph
   - star-algebra
 toc: "true"
 ---
