@@ -7,15 +7,15 @@ categories: Combinatorics
 tags:
   - graph
 ---
-# Definitions
+## Definitions
 
-## graph
+### graph
 
 A graph ${ G }$ is an ordered pair of disjoint sets ${ (V,E) }$ s.t. ${ E \subset V^{(2)} }$ of unordered pairs of V. The set ${ V }$ is a set of *vertices* and ${ E }$ is the set of *edges*.
 
 An edge ${ \left\{ x,y \right\} }$ is said to *join* the vertices ${ x }$ and ${ y }$ and is denoted by ${ xy }$.
 
-## subgraph
+### subgraph
 
 ${ G'=(V',E') }$ is a subgraph of ${ G = (V,E) }$ if ${ V' \subset V }$ and ${ E' \subset E }$. In this case we write ${ G' \subset G}$.
 
@@ -23,21 +23,23 @@ If ${ G' }$ contains all edges of ${ G }$ that joint two vertices in ${ V' }$, t
 
 If ${ V'=V }$, then ${ G' }$ is said to be a spanning subgraph of ${ G }$.
 
-## order and size
+### order and size
 
 the order of ${ G := \lvert V(G) \rvert }$, denoted by ${ \lvert G \rvert }$
 
 the size of ${ G:= \lvert E(G) \rvert }$, denoted by ${ e(G) }$
 
-## complement
+### complement
 
 ${ \overline{G} = (V, V^{(2)}-E ) }$
 
-## neighborhood
+### neighborhood
 
-${ \Gamma(x) = \left\{ y \in V : y \mbox{ is adjacent to x} \right\} }$ is called open neighborhood of ${ x }$, and ${ \Gamma(x) \cup \left\{ x \right\} }$ is called closed neighborhood of ${ x }$.
+${ \Gamma(x) = \left\{ y \in V : y \mbox{ is adjacent to x} \right\} }$ is called open neighborhood of ${ x }$,
 
-# Paths, Cycles, and Trees
+and ${ \Gamma(x) \cup \left\{ x \right\} }$ is called closed neighborhood of ${ x }$.
+
+## Paths, Cycles, and Trees
 
 A path is a graph ${ P }$ of the form
 
