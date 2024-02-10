@@ -13,7 +13,9 @@ tags:
 
 A graph ${ G }$ is an ordered pair of disjoint sets ${ (V,E) }$ s.t. ${ E \subset V^{(2)} }$ of unordered pairs of V. The set ${ V }$ is a set of *vertices* and ${ E }$ is the set of *edges*.
 
-An edge ${ \left\{ x,y \right\} }$ is said to *join* the vertices ${ x }$ and ${ y }$ and is denoted by ${ xy }$.
+An edge ${ \left\{ x,y \right\} }$ is said to *join* the vertices
+
+${ x }$ and ${ y }$ and is denoted by ${ xy }$.
 
 ### subgraph
 

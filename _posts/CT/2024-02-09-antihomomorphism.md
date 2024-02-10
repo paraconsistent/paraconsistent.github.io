@@ -2,7 +2,7 @@
 layout: post
 title: antihomomorphism
 math: "true"
-categories: category-theory
+categories: Category-Theory
 tags:
   - star-algebra
 toc: "true"
