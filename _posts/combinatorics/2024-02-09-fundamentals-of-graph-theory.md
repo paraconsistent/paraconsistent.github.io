@@ -3,7 +3,7 @@ layout: post
 math: "true"
 toc: "true"
 title: Fundamentials of Graph Theory
-categories: combinatorics
+categories: Combinatorics
 tags:
   - graph
 ---
