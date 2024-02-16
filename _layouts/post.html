@@ -39,7 +39,7 @@ layout: default
       <div class="post-meta">
         <i class="fas fa-folder"></i>
         <ul class="post-taxonomies post-categories">
-          {% assign categories = page.categories | sort %}
+          {% assign categories = page.categories | sort_natural %}
           {% for category in categories %}
             <li class="post-category">
               {% assign slugified_category = category | slugify %}
@@ -54,7 +54,7 @@ layout: default
       <div class="post-meta">
         <i class="fas fa-tags"></i>
         <ul class="post-taxonomies post-tags">
-          {% assign tags = page.tags | sort %}
+          {% assign tags = page.tags | sort_natural %}
           {% for tag in tags %}
             <li class="post-tag">
               {% assign slugified_tag = tag | slugify %}
