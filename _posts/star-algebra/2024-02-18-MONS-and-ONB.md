@@ -37,7 +37,7 @@ and define
 
 $$ v_{j}:= \frac{w_{j}}{\lVert w_{j} \rVert} $$
 
-, then the set ${ \left\{ v_{j} \right\} }$ is orthornomal system such that
+, then the set ${ \left\\{ v_{j} \right\\} }$ is orthornomal system such that
 
 $$ \left\{ v_{j} \right\}_{j=1}^{n} \mbox{ spans the same subspace as } \left\{ u_{j} \right\}_{j=1}^{n}  $$
 
