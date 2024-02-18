@@ -65,7 +65,9 @@ If apply Gram-Schmidt process on ${ S' }$, we get orthonormal system ${ S'' }$. 
 
 **Theorem** Any Hilbert space has an ONB. Any MONS in a Hilbert space is an ONB.
 
-pf) By the Zorn's lemma, any inner product space has at least one MONS. Suppose ${ \left\\{ x_{i} \right\\}_{i \in I} }$ is an arbitrary MONS in a Hilbert space ${ H }$. By the Bessel's inequality, there is at most a countable subset ${ I_{o} }$ of ${ I }$ s.t.
+pf) By the Zorn's lemma, any inner product space has at least one MONS.
+
+Suppose ${ \left\\{ x_{i} \right\\}_{i \in I} }$ is an arbitrary MONS in a Hilbert space ${ H }$. By the Bessel's inequality, there is at most a countable subset ${ I_{o} }$ of ${ I }$ s.t.
 
 $$ \langle x_{i},x\rangle =0 \mbox{ for any } i \in I\setminus I_{0} $$
 
