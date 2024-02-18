@@ -61,7 +61,7 @@ Then ${ S' }$ is a linearly independent set of ${ X }$.
 
 If apply Gram-Schmidt process on ${ S' }$, we get orthonormal system ${ S'' }$. Since ${ S'' }$ is dense in ${ X }$, ${ S'' }$ is the desired ONB.
 
-### Hilbert space
+## Hilbert space
 
 **Theorem** Any Hilbert space has an ONB. Any MONS in a Hilbert space is an ONB.
 
