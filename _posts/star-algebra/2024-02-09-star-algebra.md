@@ -4,6 +4,7 @@ title: "*-algebra"
 tags:
   - quant-ph
   - star-algebra
+  - Hilbert-space
 math: "true"
 categories: Functional-Analysis
 toc: "true"

@@ -5,7 +5,7 @@ toc: "true"
 title: Hilbert space
 categories: Functional-Analysis
 tags:
-  - star-algebra
+  - Hilbert-space
 ---
 ## Pre-Hilbert space
 
