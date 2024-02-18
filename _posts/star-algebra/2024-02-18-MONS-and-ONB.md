@@ -26,7 +26,7 @@ for some sequence ${ \left\{ c_{y} \right\} }$ of scalars of ${ X }$.
 ## Gram-Schmidt orthogonalization process
 
 Let
-$$ u_{1}, u_{2}, u_{3} \dots $$
+$$ \left \\{ u_{1}, u_{2}, u_{3} \dots \right \\} $$
 
 be at most countable linearly independent susbset of inner product space ${ X }$. Define
 
