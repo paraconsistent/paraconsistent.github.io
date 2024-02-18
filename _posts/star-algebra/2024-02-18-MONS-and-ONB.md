@@ -23,7 +23,7 @@ $$ x = \sum_{y \in S} c_{y} y$$
 
 for some sequence ${ \left\\{ c_{y} \right\\} }$ of scalars of ${ X }$.
 
-## Gram-Schmidt orthogonalization process
+## Gram-Schmidt process
 
 Let
 
