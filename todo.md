@@ -2,6 +2,7 @@
 layout: page
 math: "true"
 permalink: /todo/
+mermaid: "true"
 ---
 ## TODO
 

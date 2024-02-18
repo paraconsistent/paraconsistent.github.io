@@ -17,6 +17,12 @@
       Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://github.com/ngzhio/jekyll-theme-hamilton">Hamilton</a>
     </p>
   </div>
+  {% if page.mermaid %}
+  <script>
+	  mermaid.initialize({startOnLoad:true});
+	  window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  </script>
+  {% endif %}
 
   <div class="footer-col">
     <p>{{ site.description | escape }}</p>
