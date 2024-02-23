@@ -6,6 +6,7 @@ title: Hölder's inequality
 categories: Calculus
 tags:
   - inequality
+  - Lp
 ---
 ## Statement
 
