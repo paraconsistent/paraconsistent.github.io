@@ -37,7 +37,7 @@ $$ A \subset U_{1} $$
 
 $$ A \subset U_{0} \subset \overline{U}_{0} \subset U_{1} $$
 
-${ P_{n}=\{ r_{1},r_{2},\dots,r_{n} \} }$이라 하고 귀납가정
+${ P_{n}=\{ r\_{1},r\_{2},\dots,r\_{n} \} }$이라 하고 귀납가정
 
 $$ r_{i} \le r_{j} \Rightarrow \overline{U}_{r_{i}} \subset  U_{r_{j}} $$
 
