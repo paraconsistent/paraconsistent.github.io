@@ -38,7 +38,7 @@ $$ A \subset U_{1} $$
 
 $$ A \subset U_{0} \subset \overline{U}_{0} \subset U_{1} $$
 
-${ P_{n}=\{ r\_{1},r\_{2},\dots,r\_{n} \} }$이라 하고 귀납가정
+${ P_{n}=\\{ r\_{1},r\_{2},\dots,r\_{n} \\} }$이라 하고 귀납가정
 
 $$ r_{i} \le r_{j} \Rightarrow \overline{U}_{r_{i}} \subset  U_{r_{j}} $$
 
@@ -56,7 +56,7 @@ $$ r_{i} < r_{j} \Rightarrow \overline{U}_{r_{i}} \subset U_{r_{j}} $$
 
 를 만족시킴을 보이자.
 
-만약 ${ r_{i},r_{j} }$ 모두 ${ P_{n} }$의 원소인 경우 귀납가정에 의해 참이다. 따라서 ${ r_{n+1} }$과 ${ s \in P_{n} }$에 대해서만 보이면 된다. ${ p,q }$가 각각 immediate precessor, immediate successor이므로, ${ s\le p }$이거나 ${ s \ge q }$이다.
+만약 ${ r_{i},r_{j} }$ 모두 ${ P_{n} }$의 원소인 경우 귀납가정에 의해 참이다. 따라서 ${ r_{n+1} }$과 ${ s \in P_{n} }$에 대해서만 보이면 된다. ${ p,q }$가 각각 immediate predecessor, immediate successor이므로, ${ s\le p }$이거나 ${ s \ge q }$이다.
 
 ${ s \le p }$인 경우,
 
