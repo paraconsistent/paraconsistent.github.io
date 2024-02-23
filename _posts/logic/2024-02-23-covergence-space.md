@@ -18,7 +18,7 @@ $$ \lim : \{ \mbox{proper filters on X} \} \to \mathcal{P}(X)$$
 
 Whenever ${ (X,\lim) }$ is a convergence space, then we shall extend the function lim in the following ways:
 
-- If ${ \mathcal{B} }$ is a [filterbase](https://paraconsistent.github.io/logic/2024/02/23/Filters-and-Nets.html#filters-and-ideals) on ${ X }$, then ${ \lim \mathcal{B} =\lim \mathcal{F}}$ where ${ \mathcal{F} }$ is the filter gen'd by ${ \mathcal{B} }$
+- If ${ \mathcal{B} }$ is a [filterbase](https://paraconsistent.github.io/logic/2024/02/23/Filters-and-Nets.html#filterbase-and-filtersubbase) on ${ X }$, then ${ \lim \mathcal{B} =\lim \mathcal{F}}$ where ${ \mathcal{F} }$ is the filter gen'd by ${ \mathcal{B} }$
 - If ${ x_{\bullet} }$ is a [net](https://paraconsistent.github.io/logic/2024/02/23/Filters-and-Nets.html#nets) in ${ X }$, then ${ \lim x_{\bullet} = \lim \mathcal{F}}$ where ${ \mathcal{F} }$ is the [eventuality filter](https://paraconsistent.github.io/logic/2024/02/23/Filters-and-Nets.html#correspondence-between-nets-and-filters) of ${ x_{\bullet} }$
 
 **Notations** If ${ \mathcal{F}  }$ is a proper filter or a net, the expression
