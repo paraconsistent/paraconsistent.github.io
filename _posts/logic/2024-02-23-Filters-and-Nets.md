@@ -47,7 +47,7 @@ $$ \mathcal{F} \mbox{ is a filter iff } \mathcal{J} \mbox{ is a ideal}  $$
 
 We say that ${ \mathcal{F} }$ and ${ \mathcal{J} }$ are dual to each other.
 
-Suppose ${\emptyset \neq \mathcal{J} \subseteq \mathcal{P}(X)}$, and ${ \mathcal{F} }$ is dual collection of ${ \mathcal{J} }$. Say that a set ${ S \subseteq X}$ is *small***** if ${ S \in \mathcal{J} }$, or **large** if ${ S \in \mathcal{F} }$.
+Suppose ${\emptyset \neq \mathcal{J} \subseteq \mathcal{P}(X)}$, and ${ \mathcal{F} }$ is dual collection of ${ \mathcal{J} }$. Say that a set ${ S \subseteq X}$ is **small** if ${ S \in \mathcal{J} }$, or **large** if ${ S \in \mathcal{F} }$.
 
 Then ${ \mathcal{J} }$ is an ideal and ${ \mathcal{F} }$ is a filter iff
 
@@ -69,7 +69,7 @@ is a member of ${ \mathcal{F} }$.
 
 Given any ${ \mathcal{G} \subseteq \mathcal{P}(X) }$, there exists a smallest filter (or ideal) that contatins ${ \mathcal{G} }$ - namely, the intersection of all the filters (or ideals) that contain ${ \mathcal{G} }$. We call it the filter (resp. the ideal) **generated** by ${ \mathcal{G} }$; we say that ${ \mathcal{G} }$ is generating set for it.
 
-### Filterbase and Filtersubbase
+### filterbase and filtersubbase
 
 **Definition** Let ${ \emptyset \neq \mathcal{G} \subseteq \mathcal{P}(X) }$.
 
@@ -87,7 +87,7 @@ Given any ${ \mathcal{G} \subseteq \mathcal{P}(X) }$, there exists a smallest fi
 
 $$ (\forall K \subseteq X)\ K \in \mathcal{F} \mbox{ or } X \setminus K \in \mathcal{F} $$
 
-(iii) ${ \mathcal{F} }$ is a *maximal filter* on ${ X }$. That is, ${ \mathcal{F} }$ is a proper filter on ${ X }$ and no other proper filter on ${ X }$ contains ${ \mathcal{F} }$.
+(iii) ${ \mathcal{F} }$ is a **maximal filter** on ${ X }$. That is, ${ \mathcal{F} }$ is a proper filter on ${ X }$ and no other proper filter on ${ X }$ contains ${ \mathcal{F} }$.
 
 (iv) ${ \mathcal{F} }$  is a maximal filter subbase on ${ X }$, i.e., ${ \mathcal{F} }$ is a filter subbase on ${ X }$, and no other filter subbase contains ${ \mathcal{F} }$.
 
