@@ -44,7 +44,7 @@ $$ r_{i} \le r_{j} \Rightarrow \overline{U}_{r_{i}} \subset  U_{r_{j}} $$
 
 을 세우자. 그러면 ${ r_{n+1} }$은 ${ P }$에서 immediate predecessor ${ p }$와 immediate successor ${ q }$를 갖는다. (${ i<j \nRightarrow r_{i} < r_{j} }$임에 유의하라)
 
-귀납가정에 의해, ${ \overline {U}_{p} \subset U_{q}  }$이므로 정규공간의 성질에 의해,
+귀납가정에 의해, ${ \overline {U}_{p} \subset U\_{q}  }$이므로 정규공간의 성질에 의해,
 
 $$ \overline{U}_{p} \subset U_{r_{n+1}} \subset \overline{U}_{r_{n+1}} \subset U_{q}  $$
 
