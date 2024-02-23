@@ -2,7 +2,7 @@
 layout: post
 math: "true"
 toc: "true"
-title: Neighborhood Fielter
+title: Neighborhood
 categories: General-Topology
 tags:
   - filter
@@ -23,7 +23,7 @@ For each ${ x \in X }$,
 
 $$ \mathcal{N}(x) = \{ N \in \mathcal{T}: N \mbox{ is a neighborhood of } x \} $$
 
-is a proper filter on ${ X }$, which we call the **neighborhood filter at ${ x }$** or **filter of neighborhoods of ${ x }$**.
+is a [proper filter](https://paraconsistent.github.io/logic/2024/02/23/Filters-and-Nets.html#filters-and-ideals) on ${ X }$, which we call the **neighborhood filter at ${ x }$** or **filter of neighborhoods of ${ x }$**.
 
 ## References
 

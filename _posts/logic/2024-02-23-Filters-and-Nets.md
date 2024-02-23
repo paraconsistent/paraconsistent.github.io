@@ -11,25 +11,25 @@ tags:
 ---
 ## Filters and Ideals
 
-Let ${ \mathcal{F} }$ be a nonempty collection of susbsets of a set ${ X }$. We say ${ \mathcal{F} }$ is a *filter* on ${ X }$ if
+Let ${ \mathcal{F} }$ be a nonempty collection of susbsets of a set ${ X }$. We say ${ \mathcal{F} }$ is a **filter** on ${ X }$ if
 
 (1) ${\exists S \in \mathcal{F})\  S \subseteq T \subseteq X \Rightarrow T \in \mathcal{F} }$, and
  
 (2) ${ S,T \in \mathcal{F} \Rightarrow S \cap T \in \mathcal{F} }$
 
-**Example** ${ \mathcal{P}(X) }$ is a filter on ${ X }$ and it is called the improper filter. Any other filter on ${ X }$ will be called a proper filter.
+**Example** ${ \mathcal{P}(X) }$ is a filter on ${ X }$ and it is called the **improper filter**. Any other filter on ${ X }$ will be called a **proper filter**.
 
 A filter ${ \mathcal{F} }$ is proper iff
 
 (3) ${ \emptyset \notin \mathcal{F} }$
 
-A nonempty collection ${ \mathcal{J} }$ of subsets of a set ${ X }$ is an *ideal* on ${ X }$ if
+A nonempty collection ${ \mathcal{J} }$ of subsets of a set ${ X }$ is an **ideal** on ${ X }$ if
 
 (1) ${ (\exists S \in \mathcal{J}) \  S \supseteq T \Rightarrow T \in \mathcal{J}  }$, and
 
 (2) ${ S,T \in  \mathcal{J} \Rightarrow S \cup T \in \mathcal{J}}$.
 
-${ \mathcal{P}(X) }$ is called improper ideal. Any other ideal on ${ X }$ is called a proper ideal.
+${ \mathcal{P}(X) }$ is called **improper ideal**. Any other ideal on ${ X }$ is called a **proper ideal**.
 
 ideal ${ \mathcal{J} }$ is proper iff
 
@@ -37,7 +37,7 @@ ideal ${ \mathcal{J} }$ is proper iff
 
 A ${ \sigma }$-idela is an ideal ${ \mathcal{J} }$ is closed under countable unions.
 
-There is a simple correspondence between filters and idelas.
+There is a simple correspondence between filters and ideals.
 
 $$ \mathcal{F} \subseteq \mathcal{P}(X),\quad \mathcal{J} = \{ X \setminus S : S \in \mathcal{F} \} $$
 
@@ -47,7 +47,7 @@ $$ \mathcal{F} \mbox{ is a filter iff } \mathcal{J} \mbox{ is a ideal}  $$
 
 We say that ${ \mathcal{F} }$ and ${ \mathcal{J} }$ are dual to each other.
 
-Suppose ${\emptyset \neq \mathcal{J} \subseteq \mathcal{P}(X)}$, and ${ \mathcal{F} }$ is dual collection of ${ \mathcal{J} }$. Say that a set ${ S \subseteq X}$ is *small* if ${ S \in \mathcal{J} }$, or *large* if ${ S \in \mathcal{F} }$.
+Suppose ${\emptyset \neq \mathcal{J} \subseteq \mathcal{P}(X)}$, and ${ \mathcal{F} }$ is dual collection of ${ \mathcal{J} }$. Say that a set ${ S \subseteq X}$ is *small***** if ${ S \in \mathcal{J} }$, or **large** if ${ S \in \mathcal{F} }$.
 
 Then ${ \mathcal{J} }$ is an ideal and ${ \mathcal{F} }$ is a filter iff
 
