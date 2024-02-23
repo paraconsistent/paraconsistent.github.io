@@ -47,7 +47,7 @@ is called closed neighborhood of ${ x }$.
 
 A path is a graph ${ P }$ of the form
 
-$$ V(P) = \left\{ x\_{0},x\_{1},\dots,x\_{l} \right\}, \quad  E(P) = \left\{ x\_{0}x\_{1},x\_{1}x\_{2}, \dots, x\_{l-1}x\_{l} \right\} $$
+$$ V(P) = \left\{ x_{0},x_{1},\dots,x_{l} \right\}, \quad  E(P) = \left\{ x_{0}x_{1},x_{1}x\_{2}, \dots, x_{l-1}x_{l} \right\} $$
 
 This path ${ P }$ is usually denoted by ${ x\_{0}x\_{1},\cdots x\_{l} }$
 

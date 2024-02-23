@@ -2,7 +2,7 @@
 layout: post
 math: "true"
 toc: "true"
-title: Unifor space
+title: Uniform space
 categories: General-Topology
 ---
 ## filter definition
