@@ -10,6 +10,7 @@ categories: General-Topology
 ${ X }$가 정규공간이고 ${ A,B }$가 ${ X }$의 닫힌 부분집합이라고 하자. 그러면 실수 폐구간 ${ [a,b] }$에 대해서 적당한 연속함수 ${ f: X \to [a,b]  }$가 존재하여,
 - ${ f \rvert_{A}= a }$
 - ${ f\rvert_{B} = b }$
+
 를 만족한다.
 
 ### proof
