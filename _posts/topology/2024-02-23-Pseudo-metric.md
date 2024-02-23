@@ -17,7 +17,7 @@ $$ d(x,y) =0 \Rightarrow x =y $$
 
 |  | identity axiom | symmetry axiom | triangle axiom |
 | ---- | ---- | ---- | ---- |
-| [metric](https://paraconsistent.github.io/general-topology/2023/02/23/metric.html) | O | O | O |
+| [metric](https://paraconsistent.github.io/general-topology/2024/02/23/metric.html) | O | O | O |
 | [quasi-metric](https://paraconsistent.github.io/general-topology/2024/02/23/Quasi-metric.html) | O | X | O |
 | [pseudo-metric](https://paraconsistent.github.io/general-topology/2024/02/23/Pseudo-metric.html) | △ | O | O |
 
