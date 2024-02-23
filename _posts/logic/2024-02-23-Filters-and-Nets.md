@@ -69,6 +69,8 @@ is a member of ${ \mathcal{F} }$.
 
 Given any ${ \mathcal{G} \subseteq \mathcal{P}(X) }$, there exists a smallest filter (or ideal) that contatins ${ \mathcal{G} }$ - namely, the intersection of all the filters (or ideals) that contain ${ \mathcal{G} }$. We call it the filter (resp. the ideal) **generated** by ${ \mathcal{G} }$; we say that ${ \mathcal{G} }$ is generating set for it.
 
+### Filterbase and Filtersubbase
+
 **Definition** Let ${ \emptyset \neq \mathcal{G} \subseteq \mathcal{P}(X) }$.
 
 1. ${ \mathcal{G} }$ is called a **filterbase** on ${ X }$ if each member of ${ \mathcal{G} }$ is nonempty, and for each pair of sets ${ A,B \in \mathcal{G} }$ there eixsts some ${ C \in \mathcal{G} }$ with ${ C \subseteq A \cap B }$.
