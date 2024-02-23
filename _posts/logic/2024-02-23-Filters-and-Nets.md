@@ -13,7 +13,7 @@ tags:
 
 Let ${ \mathcal{F} }$ be a nonempty collection of susbsets of a set ${ X }$. We say ${ \mathcal{F} }$ is a *filter* on ${ X }$ if
 
-(1) $({\exists S \in \mathcal{F})\  S \subseteq T \subseteq X \Rightarrow T \in \mathcal{F} }$, and
+(1) ${\exists S \in \mathcal{F})\  S \subseteq T \subseteq X \Rightarrow T \in \mathcal{F} }$, and
  
 (2) ${ S,T \in \mathcal{F} \Rightarrow S \cap T \in \mathcal{F} }$
 
