@@ -40,6 +40,7 @@ A ${ \sigma }$-idela is an ideal ${ \mathcal{J} }$ is closed under countable uni
 There is a simple correspondence between filters and idelas.
 
 $$ \mathcal{F} \subseteq \mathcal{P}(X),\quad \mathcal{J} = \{ X \setminus S : S \in \mathcal{F} \} $$
+
 Then,
 
 $$ \mathcal{F} \mbox{ is a filter iff } \mathcal{J} \mbox{ is a ideal}  $$
@@ -103,7 +104,7 @@ $$ (\forall x,y \in J, \exists u \in J)\  x \prec u \mbox{ and } y \prec u$$
 **Definition** Let ${ J }$ be a directed set. A **net** in a set ${ X }$ is any function ${ x_{\bullet} : J \to X }$.
 
 - We usually write ${ x_{\bullet}(\alpha) }$ as ${ x_{\alpha} }$.
-- ${ (x\_{\alpha})\_{\alpha \in J} }$ or ${ \{x\_{\alpha}\}\_{\alpha \in J} }$ are also notation for a net from ${ J }$ to a set.
+- ${ (x\_{\alpha})\_{\alpha \in J} }$ or ${ \\{x\_{\alpha}\\}\_{\alpha \in J} }$ are also notations for a net from ${ J }$.
 
 nets are also sometimes called **generalized sequences** or **Moore-Smith sequences**.
 
