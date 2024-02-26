@@ -53,4 +53,4 @@ and its inversion is derived by
 
 $$\begin{eqnarray} \mathbf{x} &=& t\mathbf{u}+(1-t)\mathbf{S} \\ &=& (tu_{0}, \dots,tu_{n-1},t(u_{n}+1)-1) \\ \Rightarrow 0 &=& t(u_{n}+1)-1 \\ \Rightarrow t &=& \frac{1}{1+u_{n}} \end{eqnarray}$$
 
-$$ \mathbf{x} = \left( \frac{\mathbf{u}}{1+u_{n}}, 0 \right)$$
+$$ \therefore \mathbf{x} = \left( \frac{\mathbf{u}}{1+u_{n}}, 0 \right)$$
