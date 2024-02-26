@@ -2,7 +2,7 @@
 layout: post
 math: "true"
 toc: "true"
-title: 우리손 보조정리
+title: Urysohn's Lemma
 categories: General-Topology
 ---
 ## Lemma
