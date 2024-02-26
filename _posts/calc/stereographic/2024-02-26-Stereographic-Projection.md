@@ -7,7 +7,7 @@ categories: Geometry
 tags:
   - projection
 ---
-![Stereographic Projection](https://github.com/paraconsistent/paraconsistent.github.io/blob/master/_posts/calc/stereographic/stereographic.png)
+![Stereographic Projection](https://raw.githubusercontent.com/paraconsistent/paraconsistent.github.io/master/_posts/calc/stereographic/stereographic.png)
 
 ## Stereogrphic Projection
 
