@@ -35,3 +35,18 @@ $$ f^{-1}((y,+\infty]) \mbox{ is open in } X $$
 
 ## 도식
 
+${ f: X\setminus \\{ x_{0} \\} \to [-\infty,+\infty] }$의 그래프가 다음과 같이 주어졌다고 하자.
+
+![semicontinuity](https://github.com/paraconsistent/paraconsistent.github.io/blob/master/_posts/analysis/semicontinuity/semiconti.png?raw=true)
+
+이때,
+
+$$ \begin{eqnarray} \liminf_{x \to x_{0}} f(x) = a \\ \limsup_{x \to x_{0}} f(x) = b \end{eqnarray} $$
+
+이기 때문에 만약 ${ (x\_{0},f(x\_{0})) }$라는 점을 추가했을 때
+
+${ f(x_{0}) = b }$인 경우, upper semicontinuous
+
+${ f(x_{0})=a }$인 경우, lower semicontinuous
+
+가 된다.
