@@ -55,7 +55,7 @@ ${ f(x_{0}) \le a }$인 경우, lower semicontinuous
 
 가 된다.[^1]
 
-## 같이보기
+## 함께보기
 
 - [Directional limit and continuity](https://paraconsistent.github.io/analysis/2024/02/27/directional-limit.html)
 

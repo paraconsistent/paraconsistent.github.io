@@ -66,6 +66,10 @@ $$ \mathcal{F}=\{ X \setminus J : J \in \mathcal{J} \} $$
 
 는 filter가 되고 이 ${ \mathcal{F} }$를 ${ \mathcal{J} }$의 **dual**이라고 한다.
 
+## 함께보기
+
+- [Lattice](https://paraconsistent.github.io/logic/2024/02/27/lattice.html)
+
 ## 참고문헌
 
 1. Eric Schechter (1996). *Handbook of Analysis and Its Applications*, Academic Press.
