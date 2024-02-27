@@ -29,7 +29,7 @@ $$ \forall \varepsilon>0,\exists \delta>0, \quad a-\delta<x <a \Rightarrow \lver
 
 $$ f(a-)=\lim_{x\to a-}f(x)= \lim_{x\nearrow a} f(x) = \lim_{x \uparrow a} f(x) $$
 
-### directional continuity
+### Directional continuity
 
 $$ f(a+) = f(a) $$
 
@@ -38,6 +38,8 @@ $$ f(a+) = f(a) $$
 $$ f(a-) = f(a) $$
 
 이면  **${ f }$는 ${ a }$에서 left continuous**라고 하고, 만약 모든 ${ a \in I }$에서 left continuous이면 ${ f }$는 (${ I }$에서) left continuous라고 한다.
+
+이렇게 한 방향으로만 연속인 것을 **directional continuity** 또는 **one-sided continuity**라고 한다.
 
 left continuous이면서 동시에 right continuous이면 continuous이다.
 

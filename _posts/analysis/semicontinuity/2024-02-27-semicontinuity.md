@@ -18,6 +18,7 @@ $$ \limsup_{x \to x_{0}} f(x) \le f(x_{0}) $$
 동등하게, ${ y>f(x_{0}) }$에 대해
 
 $$ f^{-1}([-\infty,y)) \mbox{ is open in } X  $$
+
 라고 할 수 있다.
 
 모든 ${ x_{0} \in X}$에 대해 위 조건을 만족하면, **${ f }$가 upper semicontinuous**라고 한다.
@@ -59,4 +60,4 @@ ${ f(x_{0}) \le a }$인 경우, lower semicontinuous
 - [Directional limit and continuity](https://paraconsistent.github.io/analysis/2024/02/27/directional-limit.html)
 
 ---
-[^1]: 이 경우에 등호가 조건인 one-sided continuity와 헷갈리면 안된다.
+[^1]: 이 경우에 등호가 조건인 [one-sided continuity](https://paraconsistent.github.io/analysis/2024/02/27/directional-limit.html)와 헷갈리면 안된다.
