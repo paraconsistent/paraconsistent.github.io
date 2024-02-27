@@ -56,3 +56,7 @@ ${ f(x_{0})= b }$이면 right continuous,
 ${ f(x_{0}) = a }$이면 left continuous,
 
 ${ a=b=f(x_{0}) }$이면 continuous이다.
+
+## 같이보기
+
+- [Semicontinuity](https://paraconsistent.github.io/analysis/2024/02/27/semicontinuity.html)
