@@ -48,8 +48,11 @@ $$ \begin{eqnarray} \liminf_{x \to x_{0}} f(x) = a \\ \limsup_{x \to x_{0}} f(x)
 
 이기 때문에 만약 ${ (x\_{0},f(x\_{0})) }$라는 점을 추가했을 때
 
-${ f(x_{0}) = b }$인 경우, upper semicontinuous
+${ f(x_{0}) \ge b }$인 경우, upper semicontinuous
 
-${ f(x_{0})=a }$인 경우, lower semicontinuous
+${ f(x_{0}) \le a }$인 경우, lower semicontinuous
 
-가 된다.
+가 된다.[^1]
+
+---
+[^1]: 이 경우에 등호가 조건인 one-sided continuity와 헷갈리면 안된다.
