@@ -18,6 +18,7 @@ $$ \limsup_{x \to x_{0}} f(x) \le f(x_{0}) $$
 동등하게, ${ y>f(x_{0}) }$에 대해
 
 $$ f^{-1}([-\infty,y)) \mbox{ is open in } X  $$
+라고 할 수 있다.
 
 모든 ${ x_{0} \in X}$에 대해 위 조건을 만족하면, **${ f }$가 upper semicontinuous**라고 한다.
 
@@ -30,6 +31,8 @@ $$ f(x_{0}) \le \liminf_{x \to x_{0}} f(x) $$
 동등하게, 모든 ${ y<f(x_{0}) }$에 대해
 
 $$ f^{-1}((y,+\infty]) \mbox{ is open in } X $$
+
+라고 할 수 있다.
 
 모든 ${ x_{0} \in X }$에 대해 위 조건을 만족하면, **${ f }$가 lower semicontinuous**라고 한다.
 
