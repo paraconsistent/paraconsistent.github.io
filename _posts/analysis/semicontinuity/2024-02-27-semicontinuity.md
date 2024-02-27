@@ -56,7 +56,7 @@ ${ f(x_{0}) \le a }$인 경우, lower semicontinuous
 
 ## 같이보기
 
-- [Directional limit and continuity](https://paraconsistent.github.io/analysis/2024/02/27/directional-continuity.html)
+- [Directional limit and continuity](https://paraconsistent.github.io/analysis/2024/02/27/directional-limit.html)
 
 ---
 [^1]: 이 경우에 등호가 조건인 one-sided continuity와 헷갈리면 안된다.
