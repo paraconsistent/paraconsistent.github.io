@@ -36,7 +36,7 @@ $$ f^{-1}((y,+\infty]) \mbox{ is open in } X $$
 
 모든 ${ x_{0} \in X }$에 대해 위 조건을 만족하면, **${ f }$가 lower semicontinuous**라고 한다.
 
-## 도식
+## 기하학적 관점
 
 ${ f: X\setminus \\{ x_{0} \\} \to [-\infty,+\infty] }$의 그래프가 다음과 같이 주어졌다고 하자.
 

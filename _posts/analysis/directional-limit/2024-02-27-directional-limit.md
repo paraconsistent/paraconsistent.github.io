@@ -41,7 +41,7 @@ $$ f(a-) = f(a) $$
 
 left continuous이면서 동시에 right continuous이면 continuous이다.
 
-### 기하학적 관점
+## 기하학적 관점
 
 ${ f: I\setminus \\{ x_{0} \\} \to \mathbb{R} }$의 그래프가 다음과 같이 주어져 있을 때,
 
