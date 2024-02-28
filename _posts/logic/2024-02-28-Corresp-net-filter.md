@@ -16,7 +16,11 @@ tags:
 
 $$ \mathrm{Tails}((x_{\alpha})_{\alpha \in J})=\{ x_{\ge\beta} : \beta \in J\} $$
 
-이 모임이 [filter subbase]()로서 생성하는 filter를  ${ (x\_{\alpha})\_{\alpha \in J} }$의 **eventuality filter**라고 한다.
+이 모임은 [filter base](https://paraconsistent.github.io/logic/2024/02/28/filter-base.html#filter-base)이고 이것이 생성하는 filter를  ${ (x\_{\alpha})\_{\alpha \in J} }$의 **eventuality filter**라고 한다.
+
+**Exercise**. 주어진 ${ \mathrm{Tails}(x\_{\bullet}) }$이 filter base임을 증명하라.
+
+Hint: ${ \alpha \le \beta \Rightarrow x_{\ge \beta} \subseteq x_{\ge \alpha} }$
 
 ## 참고문헌
 

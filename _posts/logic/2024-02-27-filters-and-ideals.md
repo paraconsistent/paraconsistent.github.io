@@ -90,8 +90,8 @@ $$ a,b \in P \Rightarrow a \wedge b =\inf \{ a,b \} \in P $$
 ## 함께보기
 
 - [Lattice](https://paraconsistent.github.io/logic/2024/02/27/lattice.html)
-- upper set
-- net
+- [Upper set](https://paraconsistent.github.io/logic/2024/02/28/upper-set.html)
+- [Net](https://paraconsistent.github.io/logic/2024/02/26/net.html)
 
 ## 참고문헌
 

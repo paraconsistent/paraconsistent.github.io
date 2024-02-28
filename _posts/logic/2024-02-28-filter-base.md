@@ -11,11 +11,15 @@ tags:
 
 ### Filter base
 
-poset ${ P }$ 위의 [filter](https://paraconsistent.github.io/logic/2024/02/27/filters-and-ideals.html#filter) ${ F }$가 주어졌을 때 ${ B \subseteq F }$가 **filter base**라는 것은 ${ B }$로 생성되는 [upper set]()이 ${ F }$인 경우를 의미한다.
+poset ${ P }$ 위의 [filter](https://paraconsistent.github.io/logic/2024/02/27/filters-and-ideals.html#filter) ${ F }$가 주어졌을 때 ${ B \subseteq F }$가 **filter base**라는 것은 ${ B }$로 생성되는 [upper set](https://paraconsistent.github.io/logic/2024/02/28/upper-set.html)이 ${ F }$인 경우를 의미한다.
 
 $$ B^{\uparrow P} = \bigcup_{b \in B} \{ x \in P: b\le x \} =F $$
 
 즉, ${ B }$라는 집합을 **upward closure** 시키면 ${ F }$가 된다는 것이다.
+
+거꾸로, ${ B }$가 ${ F }$를 생성하려면 반드시 다음 조건을 만족해야 된다.
+
+$$ \forall x \in F,\exists b \in B, \quad b \le x $$
 
 ### Prefilter
 
@@ -29,7 +33,7 @@ $$ B^{\uparrow P} = \bigcup_{b \in B} \{ x \in P: b\le x \} =F $$
 
 $$ \mathcal{B}= \mathcal{S} \cup \{ \mbox{all finite intersections in } \mathcal{S} \} $$
 
-는 prefilter가 된다. 이 ${ \mathcal{B} }$가 filter ${ \mathcal{F} }$를 생성할 때, ${ \mathcal{S} }$를 ${ \mathcal{F} }$의 subbase라고 생각하면 된다.
+는 prefilter가 된다. 이 ${ \mathcal{B} }$가 filter ${ \mathcal{F} }$를 생성할 때, ${ \mathcal{S} }$를 ${ \mathcal{F} }$의 **subbase**라고 한다.
 
 
 ## 참고문헌
