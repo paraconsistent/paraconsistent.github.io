@@ -2,7 +2,7 @@
 layout: post
 math: "true"
 toc: "true"
-title: Filter base and subbase
+title: Filter base and prefilter
 categories: Logic
 tags:
   - filter
