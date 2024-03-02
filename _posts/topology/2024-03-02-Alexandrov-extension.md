@@ -38,7 +38,7 @@ ${ V }$가 ${ X^{\ast} }$에서 open iff
 만약 Alexandrov extension ${ X^{\ast} }$에 Hausdorff 조건을 추가한다면,
 1. ${ X }$는 ${ X^{\ast} }$의 subspace로써 Hausdorff space.
 1. 위에 의해 ${ X }$의 모든 compact set은 closed.
-1. 따라서 임의의 ${ x \in X }$와 그 점의 open neighborhood ${ U }$에 대해서 ${ c^{-1}(\overline{U}) }$는 ${ X }$에서 closed이므로 compact.
+1. 따라서 임의의 ${ x \in X }$와 그 점의 open neighborhood ${ U \subseteq X}$에 대해서 ${ c^{-1}(\overline{U}) }$는 ${ X }$에서 closed이므로 compact.
 
 결론적으로,
 
@@ -48,7 +48,7 @@ $$ x \in U \subseteq c^{-1}(\overline{U})$$
 
 반대로, ${ X }$가 locally compact Hausdorff라고 하자. ${ X^{\ast} }$가 Hausdorff임을 보이려고 하면 모든 ${ x \neq \infty }$에 대해 다음을 보이면 충분하다.
 
-$$ \exists x \in U, \exists \infty \in V,\quad U \cap V = \emptyset $$
+$$ \exists U \ni x, \exists V\ni \infty,\quad U \cap V = \emptyset $$
 
 ${ X }$가 locally compact space이므로 compact neighborhood ${ K }$가 존재하여, ${ x }$의 적당한 open neighborhood ${ U }$를 포함한다. 즉,
 
