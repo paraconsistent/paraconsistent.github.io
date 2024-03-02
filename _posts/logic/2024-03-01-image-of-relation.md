@@ -23,7 +23,7 @@ ${ B,C \subseteq A }$에 대해,
 
 $$ R[B \cap C] \subseteq R[B] \cap R[C] $$
 
-등호는 ${ R }$이 1-1일 때 성립한다.
+등호는 ${ R }$이 [injective](https://paraconsistent.github.io/logic/2024/02/26/relation.html#inj)일 때 성립한다.
 
 ### Union
 
@@ -37,4 +37,4 @@ ${ B,C \subseteq A }$에 대해
 
 $$ R[B-C] \supseteq R[B] - R[C] $$
 
-이고 등호는 ${ R }$이 1-1일 때 성립한다.
+이고 등호는 ${ R }$이 [injective](https://paraconsistent.github.io/logic/2024/02/26/relation.html#inj)일 때 성립한다.
