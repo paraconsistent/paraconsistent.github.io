@@ -10,7 +10,9 @@ tags:
 ---
 ## 모티브
 
-주어진 위상공간 ${ X  }$에 가상의 점 ${ \infty }$를 추가하여 ${ X^{\ast}=X \cup \\{ \infty \\} }$라는 더 큰 공간으로 키워서 compactification한다고 생각해보자. 그렇다면 embedding ${ c: X \to X^{\ast} }$ 다음 조건을 만족해야 한다.
+complex plane ${ \mathbb{C} }$는 [stereographic projection](https://paraconsistent.github.io/geometry/2024/02/26/Stereographic-Projection.html)이라는 과정을 통해 point at infinity ${ \infty }$를 추가해서 extended complex plane ${ \hat{\mathbb{C}} }$ 또는 [Riemann sphere](https://en.wikipedia.org/wiki/Riemann_sphere)라는 compact space으로 만들 수 있다.
+
+위를 모방하여 주어진 위상공간 ${ X  }$에 가상의 점 ${ \infty }$를 추가하여 ${ X^{\ast}=X \cup \\{ \infty \\} }$라는 더 큰 공간으로 키워서 compactification한다고 생각해보자. 그렇다면 embedding ${ c: X \to X^{\ast} }$ 다음 조건을 만족해야 한다.
 
 1. ${ X }$의 모든 compact set ${ K }$에 대해, ${ c(K) }$가 ${ X^{\ast} }$에서 compact.
 1. ${ X }$의 모든 closed subset ${ C }$에 대해, ${ c(C) }$가 ${ X^{\ast} }$에서 compact.
