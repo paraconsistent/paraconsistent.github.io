@@ -45,7 +45,7 @@ ${ K \subseteq Y }$가 compact ${ \Rightarrow }$ ${ K }$가 closed ${ \Rightarro
 ## 참고문헌
 
 1. Munkres (2000). *Topology*, 2nd Edition.
-1. [Wikipedia. *Open and closed maps*. (Retrieved: Mar 3, 2024)](https://en.wikipedia.org/wiki/Open_and_closed_maps)
+1. *Open and closed maps*. In Wikipedia. Retrieved March 2, 2024, from [https://en.wikipedia.org/wiki/Open_and_closed_maps](https://en.wikipedia.org/wiki/Open_and_closed_maps)
 
 ---
 [^1]: K가 Y의 compact subset ⇒ K의 preimage under f가 compact.
