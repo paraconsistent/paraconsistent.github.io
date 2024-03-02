@@ -29,7 +29,7 @@ ${ V }$가 ${ X^{\ast} }$에서 open iff
 1. ${ V }$가 ${ X }$에서 open, 또는
 1. closed이고 compact인 ${ K \subseteq X}$에 대해, ${ V = (X\setminus K) \cup \\{ \infty \\} }$
 
-이때 ${ X^{\ast} }$를 ${ X }$의 Alexandrov extension이라고 한다.
+이때 ${ X^{\ast} }$를 ${ X }$의 **Alexandrov extension**이라고 한다.
 
 ## The one-point compactification
 
@@ -58,7 +58,7 @@ $$ x \in U \subseteq K $$
 
 결론: ${ X }$가 locally compact Hausdorff ${ \Leftrightarrow X^{\ast} }$가 compact Hausdorff.
 
-Alexandrov extension 중 Hausdorff인 것을 one-point compactification이라고 한다.
+Alexandrov extension 중 Hausdorff인 것을 **one-point compactification**이라고 한다.
 
 ## 참고문헌
 
