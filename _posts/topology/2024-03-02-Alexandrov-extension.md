@@ -63,4 +63,4 @@ Alexandrov extension 중 Hausdorff인 것을 **one-point compactification**이�
 ## 참고문헌
 
 1. Munkres (1999). *Topology*, 2nd edition.
-1. *Alexandrov extension*. In Wikipedia. Retrieved March 2, 2024, from https://en.wikipedia.org/wiki/Alexandroff_extension
+1. *Alexandrov extension*. In Wikipedia. Retrieved March 2, 2024, from [https://en.wikipedia.org/wiki/Alexandroff_extension](https://en.wikipedia.org/wiki/Alexandroff_extension)
