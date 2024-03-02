@@ -32,8 +32,8 @@ ${ X }$가 Hausdorff space이면 다음 성질이 성립한다.
 
 ${ X }$가 compact space이고 ${ Y }$가 Hausdorff space이면, 임의의 연속함수 ${ f: X \to Y }$는 closed이고 proper[^1]이다.
 
-(증명)
-
+증명
+---
 ${ f }$는 closed
 
 compact space ${ X }$에서 ${ C }$가 closed면 compact이므로 ${ f(C) }$가 compact. 그런데 Hausdorff space ${ Y }$에서 compact이면 closed이므로 ${ f(C) }$는 closed.
@@ -41,7 +41,7 @@ compact space ${ X }$에서 ${ C }$가 closed면 compact이므로 ${ f(C) }$가 
 ${ f }$는 proper
 
 ${ K \subseteq Y }$가 compact ${ \Rightarrow }$ ${ K }$가 closed ${ \Rightarrow }$ ${ f^{-1}(K) }$가 closed ${ \Rightarrow }$ ${ f^{-1}(K) }$가 compact.
-
+---
 ## 참고문헌
 
 1. Munkres (2000). *Topology*, 2nd Edition.
