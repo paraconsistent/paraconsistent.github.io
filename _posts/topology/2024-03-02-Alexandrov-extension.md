@@ -15,7 +15,7 @@ tags:
 1. ${ X }$의 모든 compact set ${ K }$에 대해, ${ c(K) }$가 ${ X^{\ast} }$에서 compact.
 1. ${ X }$의 모든 closed subset ${ C }$에 대해, ${ c(C) }$가 ${ X^{\ast} }$에서 compact.
 
-그렇다면 모든 compact 집합이 closed인 다음과 같은 위상을 주면 ${ X^{\ast} }$는 자연스럽게 컴팩트 공간이 된다.
+그렇다면 모든 compact 집합이 closed인 다음과 같은 위상을 주면 ${ X^{\ast} }$는 자연스럽게 compact space가 된다.
 
 ${ C }$가 ${ X^{\ast} }$에서 closed iff
 1. closed이고 compact인 ${ K \subseteq X }$에 대해 ${ C=K \cup \\{ \infty \\}  }$ 또는
