@@ -9,11 +9,15 @@ tags:
 ---
 ## 정의
 
-주어진 nonempty [preordered set](https://paraconsistent.github.io/logic/2024/02/15/preorder.html) ${ \left( J, \prec \right) }$이 주어졌을때, 조건
+주어진 nonempty [preordered set](https://paraconsistent.github.io/logic/2024/02/15/preorder.html) ${ \left( J, \preceq \right) }$이 주어졌을때, 조건
 
->모든 ${ \alpha,\beta \in J }$에 대해 어떤 ${ \gamma }$가 존재하여 ${ \alpha \prec \gamma }$이고 ${ \beta \prec \gamma }$
+$$ \begin{gather} \mbox{(downward directedness)} & \forall x,y \in J, \exists z \in J, \quad z \preceq x \mbox{ and } z \preceq y \end{gather} $$
 
-를 만족시키면 ${ (J,\prec) }$를 directed set이라고 부른다.
+를 만족시키면 ${ (J,\preceq) }$를 **(downward) directed set**이라고 부른다.
+
+[dual](https://paraconsistent.github.io/logic/2024/03/03/duality-(order-theory).html) 개념으로 **upward directed set**을 다음과 같이 정의한다.
+
+$$ \begin{gather} \mbox{(upward directedness)} & \forall x,y \in J,\exists z \in J, \quad x \preceq z \mbox{ and } y \preceq z  \end{gather}$$
 
 ## 모티브
 
@@ -21,4 +25,6 @@ tags:
 
 ## 함께보기
 
-- [net](https://paraconsistent.github.io/logic/2024/02/26/net.html)
+- [Net](https://paraconsistent.github.io/logic/2024/02/26/net.html): directed set에서 나가는 함수 = net
+- [Filter](https://paraconsistent.github.io/logic/2024/02/27/filter.html) = downward directed + upper set
+- [Ideal (order theory)](https://paraconsistent.github.io/logic/2024/03/03/ideal-(order-theory).html) = upward directed + lower set

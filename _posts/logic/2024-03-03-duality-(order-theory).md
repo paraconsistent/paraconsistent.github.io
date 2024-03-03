@@ -2,7 +2,7 @@
 layout: post
 math: "true"
 toc: "true"
-title: Duality (other theory)
+title: Duality (order theory)
 categories: Logic
 tags:
   - filter

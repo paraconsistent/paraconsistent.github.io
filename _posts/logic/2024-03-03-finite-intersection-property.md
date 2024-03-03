@@ -6,6 +6,8 @@ title: Finite intersection property
 categories: Logic
 tags:
   - filter
+  - order
+  - lattice
 ---
 ## 정의
 
