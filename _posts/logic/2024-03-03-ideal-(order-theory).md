@@ -19,7 +19,7 @@ meet ${ \wedge }$를 곱으로 봤을때 ${ }$대수학에서 ideal와 같다는
 
 ## filter
 
-**filter (또는 dual ideal)**은 ideal을 다음과 같이 [dualize](https://paraconsistent.github.io/2024/03/03/duality-(order-theory).html)한 것이다.
+**filter (또는 dual ideal)**은 ideal을 다음과 같이 [dualize](https://paraconsistent.github.io/logic/2024/03/03/duality-(order-theory).html)한 것이다.
 
 $$ a \in L \mbox{ and } x \in F \Rightarrow a \vee x \in F $$
 
