@@ -19,7 +19,7 @@ meet ${ \wedge }$를 곱으로 봤을때 ${ }$대수학에서 ideal와 같다는
 
 ## filter
 
-**filter (또는 dual ideal)**은 ideal을 다음과 같이 [dualize](https://paraconsistent.github.io/logic/2024/03/03/duality-(order-theory).html)한 것이다.
+[filter (또는 dual ideal)]()은 ideal을 다음과 같이 [dualize](https://paraconsistent.github.io/logic/2024/03/03/duality-(order-theory).html)한 것이다.
 
 $$ a \in L \mbox{ and } x \in F \Rightarrow a \vee x \in F $$
 
@@ -83,6 +83,20 @@ $$ \begin{gather} \mbox{(upward directedness)} & \forall x,y \in I,\exists z \in
 upward directedness는 join에 대해 닫혀있다는 조건의 약화이고 ${ I }$가[join-semilattice](https://paraconsistent.github.io/logic/2024/02/27/lattice.html#semilattice)이면, lattice에서 ideal 동치조건 i과 같다.
 
 downward closure는 ${ I }$가 lower set이라는 것과 동치
+
+### dual filter
+
+[duality principle](https://paraconsistent.github.io/logic/2024/03/03/duality-(order-theory).html#duality-priciple)에 의해 ${I= (I, \le) }$가 ideal이라는 것은 dual ${ I^{\delta}=(I,\ge) }$가 [filter](https://paraconsistent.github.io/logic/2024/02/27/filter.html)라는 것과 같다.
+
+집합 ${ X }$의 부분집합들의 순서집합 ${ (\mathcal{P}(X),\subseteq) }$에 대해서 말하자면,
+
+$$ A \subseteq B \iff X\setminus A \subseteq X\setminus B $$
+
+이므로 ${ (\mathcal{P}(X),\subseteq) }$의 ideal ${ I }$에 대해 다음과 같은 dual ideal를 생각할 수 있다.
+
+$$ F=\{ X \setminus A: A \in I \}$$
+
+이것은 ${ I^{\delta} }$와는 집합으로써는 다르지만, order isomorphism ${ A \mapsto X\setminus A}$를 통해 isomorphic하다.
 
 ## 함께보기
 
