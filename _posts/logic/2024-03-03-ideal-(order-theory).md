@@ -100,8 +100,8 @@ $$ F=\{ X \setminus A: A \in I \}$$
 
 ## 함께보기
 
-- [filter](https://paraconsistent.github.io/logic/2024/02/27/filter.html)
-- [lattice](https://paraconsistent.github.io/logic/2024/02/27/lattice.html)
+- [Filter](https://paraconsistent.github.io/logic/2024/02/27/filter.html)
+- [Lattice](https://paraconsistent.github.io/logic/2024/02/27/lattice.html)
 
 ## 참고문헌
 
