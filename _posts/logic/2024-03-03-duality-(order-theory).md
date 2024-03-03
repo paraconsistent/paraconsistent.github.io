@@ -1,3 +1,14 @@
+---
+layout: post
+math: "true"
+toc: "true"
+title: Duality (other theory)
+categories: Logic
+tags:
+  - filter
+  - order
+  - lattice
+---
 ## 정의
 
 ### dual order
