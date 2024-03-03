@@ -8,6 +8,7 @@ tags:
   - filter
   - order
   - lattice
+  - compact
 ---
 ## 정의
 

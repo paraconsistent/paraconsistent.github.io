@@ -21,7 +21,7 @@ $$ \begin{gather} \mbox{(upward directedness)} & \forall x,y \in J,\exists z \in
 
 ## 모티브
 
-즉, ${ \alpha }$와 ${ \beta }$의 공통 상계 ${ \gamma }$가 항상 존재하는 것이다. 이 ${ \gamma }$는 ${ \alpha }$와 ${ \beta }$가 비교 불가능일때도 ${ \max(\alpha,\beta) }$와 유사한 역할을 한다 생각하면 된다.
+즉, ${ x }$와 ${ y }$의 공통 상계 ${ z }$가 항상 존재하는 것이다. 이 ${ z }$는 ${ x }$와 ${ y }$가 비교 불가능일 때도 ${ \sup\\{x,y\\} }$와 유사한 역할을 한다 생각하면 된다.
 
 ## 함께보기
 
