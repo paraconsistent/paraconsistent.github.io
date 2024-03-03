@@ -39,7 +39,7 @@ lattice ${ (L,\wedge,\vee) }$ 다음 poset ${ (L,\le) }$과 동등하다
 
 $$ a \le b \iff a \wedge b = a $$
 
-그런데 absorption에 의해,
+그런데 [absorption](https://paraconsistent.github.io/logic/2024/02/27/lattice.html#lattice)에 의해,
 
 $$ a \vee b = (a \wedge b) \vee b = b  $$
 
