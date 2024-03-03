@@ -9,7 +9,7 @@ tags:
 ---
 ## 정의
 
-주어진 nonempty [preordered set](https://paraconsistent.github.io/logic/2024/02/15/preorder.html) ${ \left( J, \preceq \right) }$이 주어졌을때, 조건
+nonempty [preordered set](https://paraconsistent.github.io/logic/2024/02/15/preorder.html) ${ \left( J, \preceq \right) }$이 주어졌을때, 조건
 
 $$ \begin{gather} \mbox{(downward directedness)} & \forall x,y \in J, \exists z \in J, \quad z \preceq x \mbox{ and } z \preceq y \end{gather} $$
 
