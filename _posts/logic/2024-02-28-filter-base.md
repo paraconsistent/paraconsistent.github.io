@@ -29,7 +29,7 @@ $$ \forall x \in F,\exists b \in B, \quad b \le x $$
 
 집합 ${ X }$에 대해 ${ \mathcal{S} \subseteq \mathcal{P}(X) }$가 주어졌을때 ${ \mathcal{S} }$를 포함하는 가장 작은 filter ${ \mathcal{F} }$를 생각해보자.
 
-[집합론적 filter](https://paraconsistent.github.io/logic/2024/02/27/filters-and-ideals.html#%EC%A7%91%ED%95%A9%EB%A1%A0%EC%A0%81-%EC%A0%95%EC%9D%98)는 downward directedness와 finite intersection property가 동일하다. 따라서,
+[집합론적 filter](https://paraconsistent.github.io/logic/2024/02/27/filter.html#%EC%A7%91%ED%95%A9%EB%A1%A0%EC%A0%81-%EC%A0%95%EC%9D%98)는 downward directedness와 finite intersection property가 동일하다. 따라서,
 
 $$ \mathcal{B}= \mathcal{S} \cup \{ \mbox{all finite intersections in } \mathcal{S} \} $$
 
