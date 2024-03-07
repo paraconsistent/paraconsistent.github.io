@@ -64,4 +64,4 @@ ${ B \subseteq Y }$에 대해,
 
 $$ f[f^{-1}[B]] \subseteq B$$
 
-등호는 ${ f }$가 [surjective]()일 때 성립한다.
+등호는 ${ f }$가 [surjective]일 때 성립한다.
