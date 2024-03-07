@@ -13,7 +13,12 @@ tags:
 
 $$ \begin{gather} \mbox{(image)} &  f[A]=\{ f(x) : x\in A \} \\ \mbox{(inverse image)} & f^{-1}[B]=\{ x \in X: f(x) \in B \} \end{gather} $$
 
-라고 하자. ${ f }$를 binary relation 관점에서 봤을때, inverse relation ${ f^{-1} }$도 binary relation이므로 그 성질들이 그대로 성립한다. 증명은 [binary relation의 image의 성질](https://paraconsistent.github.io/logic/2024/03/01/image-under-relation.html)을 참조하라.
+라고 하자.
+
+${ f }$를 binary relation 관점에서 봤을때, inverse relation ${ f^{-1} }$도 binary relation이므로 그 성질들이 그대로 성립한다.
+
+증명은 [binary relation의 image의 성질](https://paraconsistent.github.io/logic/2024/03/01/image-under-relation.html)을 참조하라.
+
 ### Monotonicity
 
 ${ A_{1} \subseteq A_{2} \subseteq X }$와 ${ B_{1} \subseteq B_{2} \subseteq Y }$에 대해
