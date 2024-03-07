@@ -1,0 +1,75 @@
+---
+layout: post
+math: "true"
+toc: "true"
+title: Pullback (category theory)
+categories: Category-Theory
+---
+## 정의
+
+### set function 관점
+
+주어진 함수 ${ \varphi: X \to Y }$에 대해, 임의의 집합 ${ Z }$와 임의의 ${ f: Y \to Z }$가 다음을 만족하는 함수 ${ \varphi^{\ast}f:X \to Z }$를 **${ f }$의 pullback along** ${ \varphi }$라고 한다.
+
+$$ (\varphi^{\ast}f)(x)=f( \varphi(x)) $$
+
+### hom functor 관점
+
+$$ \hom(-,Z): \mathcal{C} \to \mathbf{Set} $$
+
+는 morphism ${ \varphi : X \to Y }$에 대해 다음과 같이 정의되는 contravariant functor이다.
+
+$$ \begin{eqnarray} \hom(\varphi,Z): \hom(Y,Z) &\to& \hom(X,Z)\\ f &\mapsto&f \circ \varphi   \end{eqnarray} $$
+
+${ \varphi^{\ast}f }$를 pullback of ${ f }$ along ${ \varphi}$라고 할 때, ${ \varphi^{\ast} }$가 functor로 잘 주어짐을 알 수 있다.
+
+#### 예시: transpose of a matrix
+
+${ V,W }$가 체 ${ \mathbb{F} }$ 위의 vector space라고 하자. 그러면 linear map  ${ A : V \to W }$에 대해 transpose ${ A^{t}}$는 다음과 같이 정의된다.
+
+$$ \begin{eqnarray} A^{t}: W^{\ast} &\to& V^{\ast} \\ f &\mapsto& f \circ A \end{eqnarray}$$
+
+그런데
+
+$$ W^{\ast}= \hom(W,\mathbb{F}), V^{\ast}=\hom(V,\mathbb{F} ) $$
+
+이므로 ${ A^{t}f }$는 ${ f }$의 pullback along ${ A }$임을 알 수 있다.
+
+### abstract category 버전
+
+<iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNSxbMSwxLCJQIl0sWzIsMSwiWSJdLFsxLDIsIlgiXSxbMiwyLCJaIl0sWzAsMCwiUCciXSxbMCwyLCJwIiwyXSxbMSwzLCJnIl0sWzAsMSwicSJdLFsyLDMsImYiLDJdLFs0LDAsIlxcZXhpc3RzISB1IiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV0sWzQsMiwicCciLDIseyJjdXJ2ZSI6Mn1dLFs0LDEsInEnIiwwLHsiY3VydmUiOi0yfV1d&embed" width="432" height="432" style="border-radius: 8px; border: none;"></iframe>
+
+주어진 triple ${ (f,Z,g) }$에 대해 위 diagram에서 오른쪽 아래 정사각형을 만족시키는 triple ${ (P,p,q) }$를 생각해보자.
+
+이때 ${ (P',p',q') }$이 diagram을 commute하는 또 다른 triple이면 morphism ${ u:P' \to P}$가 유일하게 존재해 전체 diagram이 commute하면 ${ (P,f,g) }$를 pullback이라고 한다.
+
+**Set** category에서 fiber product가 다음과 같이 주어졌을때
+
+$$ X \times_{Z} Y = \{ (x,y) \in X \times Y : f(x)=g(x) \} $$
+
+$$ (X\times_{Z}Y, \pi_{1}, \pi_{2})$$
+
+가 pullback이 된다. 일반적으로 ${ (Z,f,g) }$의 pullback은
+
+$$ X \times_{f,Z,g} Y$$
+
+으로 표기하고 ${ f,g }$가 명백할 경우 생략하여
+
+$$ X \times_{Z} Y $$
+
+로 적는다.
+
+#### 예시: pullback bundle
+
+smooth map ${ \varphi:M \to N }$이 주어져 있을 때 vector bundle ${ \pi : E \to N }$의 pullback bundle ${ \varphi^{\ast}E }$은 다음과 같이 정의된다.
+
+<iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHZhcnBoaV57XFxhc3R9RSJdLFsxLDAsIkUiXSxbMCwxLCJNIl0sWzEsMSwiTiJdLFswLDIsIlxccGlfMSIsMl0sWzAsMSwiXFxwaV8yIl0sWzIsMywiRiIsMl0sWzEsMywiXFxwaSJdXQ==&embed" width="304" height="304" style="border-radius: 8px; border: none;"></iframe>
+
+$$ \varphi^{\ast}E = \{ (p,e) \in M \times E: \pi(e)=F(p) \} $$
+
+category theory의 pullback은 pullback bundle을 일반화했다고 생각하면 된다.
+
+## 참고문헌
+
+1. [Pullback (category theory) - Wikipedia](https://en.wikipedia.org/wiki/Pullback_(category_theory))
+1. Lee (2012). *Introduction to Smooth Manifolds*, 2nd ed.
