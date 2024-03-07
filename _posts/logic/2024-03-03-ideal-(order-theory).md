@@ -74,7 +74,7 @@ $$ \forall a \in L, \exists x \in F, \quad a \ge x \Rightarrow a \in F  $$
 
 ### 일반적인 poset으로 확장
 
-lattice에는 ${ x \wedge y = \inf \{ x,y \} }$ 와 ${ x \vee y = \sup \{ x,y \} }$에 닫혀있어야 한다는 조건이 필요했다. 일반적인 poset에서는 meet와 joint에 대해서 닫혀있을 필요가 없으므로 다음과 같이 조건을 약화한다.
+lattice에는 ${ x \wedge y = \inf \\{ x,y \\} }$ 와 ${ x \vee y = \sup \\{ x,y \\} }$에 닫혀있어야 한다는 조건이 필요했다. 일반적인 poset에서는 meet와 joint에 대해서 닫혀있을 필요가 없으므로 다음과 같이 조건을 약화한다.
 
 poset ${ P=(P,\le) }$에 대해 ${ I }$가 ideal이라는 것은
 
