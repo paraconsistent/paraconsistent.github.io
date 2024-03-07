@@ -58,10 +58,28 @@ ${ A \subseteq X }$에 대해,
 
 $$ A \subseteq f^{-1}[f[A]] $$
 
-등호는 ${ f }$가 [injective](https://paraconsistent.github.io/logic/2024/02/26/relation.html#inj)일 때 성립한다.
+등호는 restriction ${ f\rvert_{A} }$가 [injective](https://paraconsistent.github.io/logic/2024/02/26/relation.html#inj)일 때만 성립한다.
 
 ${ B \subseteq Y }$에 대해,
 
 $$ f[f^{-1}[B]] \subseteq B$$
 
-등호는 ${ f }$가 [surjective]일 때 성립한다.
+등호는 ${ B \subseteq \mathrm{ran}(f) }$일 때만 성립한다.
+
+${ f^{-1}f }$ 관계식 증명
+
+$$ \forall a\in A, \quad f(a) \in f[A] \Rightarrow a \in f^{-1}[f[A]] $$
+
+등호는 다음으로 보일 수 있다.
+
+$$ a \in A \Leftrightarrow f(a) \in f[A] \Leftrightarrow a \in f^{-1}[f[a]] $$
+
+왼쪽 ${ \Leftrightarrow }$가 injectivity, 오른쪽 ${ \Leftrightarrow }$가 등호
+
+${ ff^{-1} }$ 관계식 증명
+
+$$ x \in f^{-1}[B] \Rightarrow f(x) \in B $$
+
+등호는 다음으로 보일 수 있다.
+
+$$ \begin{eqnarray} b \in f[f^{-1}[B]] &\Leftrightarrow& b=f(x) \mbox{ for some } x \in f^{-1}[B] \\ &\Leftrightarrow& b \in \mathrm{ran}(f) \cap B\end{eqnarray} $$
