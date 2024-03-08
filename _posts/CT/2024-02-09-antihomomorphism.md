@@ -7,7 +7,9 @@ tags:
   - star-algebra
 toc: "true"
 ---
-## Antihomomorphism
+## 정의
+
+### Antihomomorphism
 
 ${ f:X \to Y }$가 **antihomomorphism**이라는 것은 ${ f: X \to Y^{\mathrm{op}} }$로 봤을 때 **homomorphism**인 것을 말한다.
 
@@ -17,10 +19,37 @@ $$ f(xy) = f(y)f(x) $$
 
 를 만족하는 함수이다.
 
-## Involution
+homo-를 endo-, auto-, mono-, epi-, iso- 등으로 치환하면 homomorphism의 그 의미와 똑같이 둔다.
 
-**involution**은 ${ f^{2}=\mathrm{id} }$를 만족하는 automorphism ${ f }$를 지칭한다.
+### Involution
 
+**involution**은 ${ f^{2}=\mathrm{id} }$를 만족하는 antiautomorphism ${ f }$를 지칭한다.
+
+## 예시
+
+### inverse
+
+group ${ G }$에 대해 antiautomorphism ${ g \mapsto g^{-1}}$는 involution이다.
+
+$$\begin{gather} (g^{-1})^{-1}=g \\ (gh)^{-1}=h^{-1}g^{-1} \end{gather}  $$
+
+### transpose
+
+matrix의 transpose ${ A \mapsto A^{t} }$는 involution이다.
+
+$$ \begin{gather} (A^{t})^{t}= A \\ (AB)^{t}=B^{t}A^{t} \end{gather} $$
+
+### adjoint
+
+inner product space ${ V }$ 위의 linear operator의 adjoint ${ A \mapsto A^{\dagger} }$는 involution이다.
+
+$$ \begin{gather} (A^{\dagger})^{\dagger} = A \\ (AB)^{\dagger} =B^{\dagger}A^{\dagger} \end{gather} $$
+
+### complex conjugation
+
+quarternion ${ \mathbb{H} }$에 대해 complex conjugation ${ q \mapsto q^{\ast} }$는 involution이다.
+
+$$ \begin{gather} (q^{\ast})^{\ast}=q \\ (pq)^{\ast}=q^{\ast}p^{\ast} \end{gather} $$
 
 ## References
 
