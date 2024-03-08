@@ -27,27 +27,27 @@ homo-를 endo-, auto-, mono-, epi-, iso- 등으로 치환하면 homomorphism의 
 
 ## 예시
 
-### inverse
+### Inverse
 
 group ${ G }$에 대해 antiautomorphism ${ g \mapsto g^{-1}}$는 involution이다.
 
 $$\begin{gather} (g^{-1})^{-1}=g \\ (gh)^{-1}=h^{-1}g^{-1} \end{gather}  $$
 
-### transpose
+### Transpose
 
 matrix의 transpose ${ A \mapsto A^{t} }$는 involution이다.
 
 $$ \begin{gather} (A^{t})^{t}= A \\ (AB)^{t}=B^{t}A^{t} \end{gather} $$
 
-### adjoint
+### Adjoint
 
 inner product space ${ V }$ 위의 linear operator의 adjoint ${ A \mapsto A^{\dagger} }$는 involution이다.
 
 $$ \begin{gather} (A^{\dagger})^{\dagger} = A \\ (AB)^{\dagger} =B^{\dagger}A^{\dagger} \end{gather} $$
 
-### complex conjugation
+### Quaternion conjugation
 
-quarternion ${ \mathbb{H} }$에 대해 complex conjugation ${ q \mapsto q^{\ast} }$는 involution이다.
+quarternion ${ \mathbb{H} }$에 대해 quaternion conjugation ${ q \mapsto q^{\ast} }$는 involution이다.
 
 $$ \begin{gather} (q^{\ast})^{\ast}=q \\ (pq)^{\ast}=q^{\ast}p^{\ast} \end{gather} $$
 
