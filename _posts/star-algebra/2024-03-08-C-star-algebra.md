@@ -25,7 +25,7 @@ $$ \lVert a^{\ast} \rVert = \lVert a \rVert $$
 
 involutive Banach algebra 중
 
-$$ \lVert a^{\ast}a \rVert= \lVert a \rVert^{2}$$
+$$ (C^{\ast}\mbox{-identity}) \quad \lVert a^{\ast}a \rVert= \lVert a \rVert^{2}$$
 
 를 만족시키면 **(abstract) ${ C^{\ast} }$-algebra**라고 한다.
 

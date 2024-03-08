@@ -1,23 +1,26 @@
 ---
 layout: post
-title: antihomomorphism
+title: Antihomomorphism
 math: "true"
 categories: Category-Theory
 tags:
   - star-algebra
 toc: "true"
 ---
-## antihomomorphism
+## Antihomomorphism
 
- An **antihomomorphism** ${ f: X \to Y }$ is a homomorphism ${ f : X \to Y^{\mathrm{op}} }$ where ${ Y^{op} }$ is the opposite object of ${ Y }$.
+${ f:X \to Y }$가 **antihomomorphism**이라는 것은 ${ f: X \to Y^{\mathrm{op}} }$로 봤을 때 **homomorphism**인 것을 말한다.
 
-## involutive automorphism
-An **involution** is an endomorphism ${ f: X \to X }$ s.t. ${ f^{2}=\mathrm{id}_{X} }$
+구체적으로,
 
-In a ring theory, an antihomomorphism is a map
-- ${ f(1)=1 }$
-- ${ f(x+y)=f(x)+f(y) }$
-- ${ f(xy)=f(y)f(x) }$
+$$ f(xy) = f(y)f(x) $$
+
+를 만족하는 함수이다.
+
+## Involution
+
+**involution**은 ${ f^{2}=\mathrm{id} }$를 만족하는 automorphism ${ f }$를 지칭한다.
+
 
 ## References
 
