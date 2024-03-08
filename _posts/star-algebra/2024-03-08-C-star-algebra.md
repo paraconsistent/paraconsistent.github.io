@@ -11,7 +11,7 @@ tags:
 
 ### Complex ${ \ast }$-algebra
 
-${ (A,+,\cdot,\ast) }$가 associative complex algebra이면 [${ \ast }$-algebra](https://paraconsistent.github.io/functional-analysis/2024/02/09/star-algebra.html) 구조는 다음과 같이 자연스럽게 주어진다.
+${ (A,+,\cdot,\ast) }$가 [associative complex algebra](https://paraconsistent.github.io/algebra/2024/03/08/associative-algebra.html)이면 [${ \ast }$-algebra](https://paraconsistent.github.io/functional-analysis/2024/02/09/star-algebra.html) 구조는 다음과 같이 자연스럽게 주어진다.
 
 $$ \begin{gather} \mbox{(i)} & a^{\ast\ast}=a \\ \mbox{(ii)} & (a+b)^{\ast}=a^{\ast}+b^{\ast} \\ \mbox{(iii)} & (\lambda a)^{\ast}=\overline{\lambda} a^{\ast} \\ \mbox{(iv)} & (ab)^{\ast}=b^{\ast}a^{\ast} \end{gather} $$
 
@@ -25,7 +25,7 @@ $$ \lVert a^{\ast} \rVert = \lVert a \rVert $$
 
 involutive Banach algebra 중
 
-$$ (B^{\ast}\mbox{- identity)}  \quad \lVert a^{\ast}a \rVert= \lVert a \rVert^{2}$$
+$$ \lVert a^{\ast}a \rVert= \lVert a \rVert^{2}$$
 
 를 만족시키면 **(abstract) ${ C^{\ast} }$-algebra**라고 한다.
 
@@ -55,5 +55,5 @@ complex Hilbert space ${ \mathcal{H} }$가 주어졌을 때 ${ B(\mathcal{H}) }$
 
 1. [J. Hamhalter (2003). *Quantum Measure Theory*, Springer Dordrecht, p.12](https://link.springer.com/book/10.1007/978-94-017-0119-8)
 1. [J. B. Conway (2007). *A Course in Functional Analysis*, 2nd ed., Springer New York, NY, p.232.](https://link.springer.com/book/10.1007/978-1-4757-4383-8)
-1. W.Rudin (2005). *Functional Analysis*, 2nd International ed., Mc Graw Hill, p.288.
+1. W.Rudin (2005). *Functional Analysis*, 2nd International ed., McGraw Hill, p.288.
 1. [C-star-algebra in nLab (ncatlab.org)](https://ncatlab.org/nlab/show/C-star-algebra)

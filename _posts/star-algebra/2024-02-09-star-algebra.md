@@ -17,11 +17,11 @@ ring ${ A }$가 **${ \ast }$-ring**이라는 것은 [involutive antiautomorphism
 
 ### ${ \ast }$-algebra
 
-commutative ring ${ R }$이 [involution](https://paraconsistent.github.io/category-theory/2024/02/09/antihomomorphism.html#involutive-automorphism) ${ ' }$를 가지고 있고, ${ A }$가 associative algebra over ${ R }$이라고 하자. 이때 involutive ring antiautomorphism ${ \ast:A \to A }$가
+commutative ring ${ R }$이 [involution](https://paraconsistent.github.io/category-theory/2024/02/09/antihomomorphism.html#involutive-automorphism) ${ ' }$를 가지고 있고, ${ A }$가 [associative algebra](https://paraconsistent.github.io/algebra/2024/03/08/associative-algebra.html) over ${ R }$이라고 하자. 이때 involutive ring antiautomorphism ${ \ast:A \to A }$가
 
 $$ (\forall r \in R,\forall x \in A) \quad \left( rx \right)^{\ast} = r'x^{\ast} $$
 
-을 만족하는 ${ A }$를 **${ \ast }$-algebra**라고 한다.
+을 만족하면 ${ A }$를 **${ \ast }$-algebra**라고 한다.
 
 ### ${ \ast }$-homomorphism
 
