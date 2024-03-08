@@ -25,7 +25,7 @@ $$ (\forall r \in R,\forall x \in A) \quad \left( rx \right)^{\ast} = r'x^{\ast}
 
 ### ${ \ast }$-homomorphism
 
-${ A }$와 ${ B }$ 모두 ${ \ast }$-algebra[^1]라고 하자. algebra homomorphism ${ f:A \to B }$가 다음 조건을 만족하면 **${ \ast }$-homomorphism**이라고 한다.
+${ A }$와 ${ B }$ 모두 ${ \ast }$-algebra라고 하자.[^1] algebra homomorphism ${ f:A \to B }$가 다음 조건을 만족하면 **${ \ast }$-homomorphism**이라고 한다.
 
 $$ (\ast\mbox{-compatibility}) \quad  \forall  a \in A, \ f(a^{\ast})=f(a)^{\ast} $$
 
