@@ -34,4 +34,4 @@ $$ (\ast\mbox{-compatibility}) \quad  \forall  a \in A, \ f(a^{\ast})=f(a)^{\ast
 1. *\*-algebra*. In *Wikipedia*. Retrieved Febuary 9, 2024, from [https://en.wikipedia.org/wiki/\*-algebra](https://en.wikipedia.org/wiki/*-algebra)
 
 ---
-[^1]: 엄밀히는 ${ *_{A}:A \to A}$와 ${ \ast_{B}: B\to B }$를 구분해야 될 것이다.
+[^1]: 엄밀히는 A의 \*와 B의 \*를 구분해야 될 것이다.
