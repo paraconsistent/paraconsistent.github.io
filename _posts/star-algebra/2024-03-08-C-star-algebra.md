@@ -2,7 +2,7 @@
 layout: post
 math: "true"
 toc: "true"
-title: ${C^{\ast}}$-algebra
+title: C-star-algebra
 categories: Functional-Analysis
 tags:
   - star-algebra
@@ -39,9 +39,17 @@ $$ \begin{gather} \lVert a \rVert^{2}=\lVert a^{\ast}a \rVert \le \lVert a^{\ast
 
 complex Hilbert space ${ \mathcal{H} }$가 주어졌을 때 ${ B(\mathcal{H}) }$의 ${ \ast }$-subalgebra 중 closed인 것을 **concrete ${ C^{\ast} }$-algebra**라고 한다.
 
+## 여담
+
 ### 이름의 유래
 
 본래 ${ C^{\ast} }$-algebra는 concrete ${ C^{\ast} }$-algebra를 의미하였고 C는 closed에서 따왔다. 나아가 abstract ${ C^{\ast} }$-algebra는 본래 ${ B^{\ast} }$-algebra로 불리었고 B는 Banach에서 따왔다. 하지만 근래에는 ${ C^{\ast} }$-algebra를 주로 abstract 의미로 많이 해석하여 ${ B^{\ast} }$-algebra는 잘 쓰이지 않게 되었다.
+
+### 컴퓨터에서 표기
+
+많은 시스템과 응용 프로그램에서 ${ \ast }$를 [와일드카드 문자](https://ko.wikipedia.org/wiki/%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9C_%EB%AC%B8%EC%9E%90)로 사용하므로 문서 제목에는 C-star-algebra로 우회하는 것이 권장된다.
+
+시스템에 따라 `Shift+8` 문자가 다르게 출력될 수 있으므로 TeX 문서에서 ${ \ast }$는 `\ast`로 쓰는 것이 권장된다.
 
 ## 참고문헌
 
