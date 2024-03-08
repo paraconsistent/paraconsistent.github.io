@@ -55,5 +55,5 @@ complex Hilbert space ${ \mathcal{H} }$가 주어졌을 때 ${ B(\mathcal{H}) }$
 
 1. [J. Hamhalter (2003). *Quantum Measure Theory*, Springer Dordrecht, p.12](https://link.springer.com/book/10.1007/978-94-017-0119-8)
 1. [J. B. Conway (2007). *A Course in Functional Analysis*, 2nd ed., Springer New York, NY, p.232.](https://link.springer.com/book/10.1007/978-1-4757-4383-8)
-1. W.Rudin (2005). *Functional Analysis*, 2nd International ed., McGraw Hill, p.288.
+1. W. Rudin (2005). *Functional Analysis*, International ed., McGraw-Hill, p.288.
 1. [C-star-algebra in nLab (ncatlab.org)](https://ncatlab.org/nlab/show/C-star-algebra)
