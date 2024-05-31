@@ -5,7 +5,7 @@ toc: "true"
 title: The Hahn-Banach Theorem
 categories: Functional-Analysis
 tags:
-  - Banach-space
+  - banach-space
 ---
 ## The Hahn-Banach Theorem
 

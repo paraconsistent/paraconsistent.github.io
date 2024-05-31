@@ -5,7 +5,7 @@ toc: "true"
 title: Bessel's inequality
 categories: Functional-Analysis
 tags:
-  - Hilbert-space
+  - hilbert-space
 ---
 ## Statement
 

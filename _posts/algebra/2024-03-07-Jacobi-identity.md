@@ -4,6 +4,8 @@ math: "true"
 toc: "true"
 title: Jacobi identity
 categories: Algebra
+tags:
+  - lie-algebra
 ---
 ## Jacobi idenitity
 

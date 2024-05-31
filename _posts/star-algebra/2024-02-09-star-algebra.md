@@ -2,9 +2,9 @@
 layout: post
 title: "*-algebra"
 tags:
-  - quant-ph
   - star-algebra
-  - Hilbert-space
+  - hilbert
+  - quantum
 math: "true"
 categories: Functional-Analysis
 toc: "true"

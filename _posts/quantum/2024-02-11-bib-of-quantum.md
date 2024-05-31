@@ -5,8 +5,8 @@ toc: "true"
 title: Selected Bibliography of Quantum Theory
 categories: Research
 tags:
-  - quant-ph
   - bibliography
+  - quantum
 ---
 ## Quantum Computation and Quantum Information
 
