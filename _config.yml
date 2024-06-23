@@ -1,8 +1,8 @@
 title: rattopos's blog
-description: notebook
+description: 연습장
 author: rattopos
 avatar: https://avatars.githubusercontent.com/u/39265048?v=4
-email: chanj.lee95@gamil.com
+email: toposless@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -38,4 +38,4 @@ social:
     - https://github.com/rattopos
 lang: ko
 google_tag:
- ua: GTM-MVP5BKVL
+ ua: GTM-M4C467WX
