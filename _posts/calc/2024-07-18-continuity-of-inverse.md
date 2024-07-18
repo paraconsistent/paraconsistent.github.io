@@ -19,7 +19,7 @@ $$ \left\lvert x-a \right\rvert < \delta \Rightarrow \left\lvert \frac{1}{ x} - 
 
 $$ \delta = \frac{\varepsilon\left\lvert a \right\rvert^{2}}{1+\varepsilon \left\lvert a \right\rvert} $$
 
-을 잡으면 (${ \varepsilon }$이 충분히 작으면 처음 가정 ${ \delta < |a| }$ 또한 만족)
+을 잡으면 (${ \varepsilon }$이 충분히 작으면 처음 가정 ${ \delta < \left\lvert a \right\rvert }$ 또한 만족)
 
 $$ \left\lvert \frac{1}{x} - \frac{1}{a} \right\rvert < \varepsilon $$
 
