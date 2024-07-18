@@ -1,7 +1,7 @@
 ---
 layout: post
 math: "true"
-toc: "true"
+toc: "false"
 title: 1/x의 연속성
 categories: Calculus
 tags:
