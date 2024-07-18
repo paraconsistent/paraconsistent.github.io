@@ -1,7 +1,7 @@
 ---
 layout: post
 math: "true"
-toc: "true"
+toc: "false"
 title: The Hahn-Banach Theorem
 categories: Functional-Analysis
 tags:
