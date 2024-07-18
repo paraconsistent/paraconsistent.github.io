@@ -29,4 +29,4 @@ ${ n \ge N }$일 때,
 
 $$ \begin{eqnarray}\left\lvert a_{n}b_{n} -ab \right\rvert &\le& \left\lvert a_{n} -a \right\rvert \left\lvert b_{n} \right\rvert + \left\lvert a \right\rvert \left\lvert b_{n} -b \right\rvert \\ &<& \frac{\varepsilon}{2(\left\lvert b \right\rvert +1)} (\left\lvert b\right\rvert+1) + \frac{\varepsilon\left\lvert a \right\rvert}{2(\left\lvert a \right\rvert+1)} \\ &<& \varepsilon\end{eqnarray} $$
 
-[^1]: |a|=0이면 분모가 0이 되므로 1을 더해줬다.
+[^1]: 분모가 0이 되는 상황을 피하고자 1을 더해줬다.
